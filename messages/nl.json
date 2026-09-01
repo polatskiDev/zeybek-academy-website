@@ -1,0 +1,464 @@
+{
+  "nav": {
+    "home": "Home",
+    "zeybek": "Zeybek",
+    "academy": "Academy",
+    "lessons": "Lessen",
+    "events": "Optredens & Evenementen",
+    "privateLessons": "Privélessen",
+    "gallery": "Galerij",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "zeybekMenu": {
+      "hub": "Ontdek Zeybek",
+      "what": "Wat is Zeybek?",
+      "history": "Geschiedenis van Zeybek",
+      "culture": "Zeybek Cultuur",
+      "dance": "Zeybek Dans",
+      "posture": "Zeybek Houding",
+      "music": "Zeybek Muziek",
+      "dances": "Zeybek Dansen & Regio's",
+      "repertoire": "Ons Repertoire"
+    }
+  },
+  "footer": {
+    "tagline": "Wij leren, bewaren en dansen samen zeybek in Amsterdam.",
+    "slogan": "Zeybek is niet alleen een dans. Een houding. Een karakter. Een cultuur.",
+    "pages": "Pagina's",
+    "contact": {
+      "email": "info@zeybekacademy.nl"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "youtube": "YouTube"
+    },
+    "links": {
+      "title": "Links",
+      "privacy": "Privacybeleid",
+      "terms": "Algemene Voorwaarden",
+      "cookies": "Cookiebeleid"
+    },
+    "legal": {
+      "company": "Zeybek Academy",
+      "type": "Eenmanszaak",
+      "kvk": "KvK: [wordt toegevoegd]",
+      "address": "Oudenoord 432, 3513 EX Utrecht"
+    },
+    "rights": "© {year} Zeybek Academy. Alle rechten voorbehouden."
+  },
+  "metadata": {
+    "home": {
+      "title": "Zeybek Academy Amsterdam | Zeybek Dans & Cultuur",
+      "description": "Leer zeybek cultuur in Amsterdam, ontdek traditionele zeybek dansen met de juiste techniek en dans samen. Eerste les gratis."
+    },
+    "about": {
+      "title": "Over Ons | Zeybek Academy Amsterdam",
+      "description": "Het oprichtingsverhaal, de missie en de visie van Zeybek Academy."
+    },
+    "lessons": {
+      "title": "Zeybek Lessen Amsterdam | Zeybek Academy",
+      "description": "Zeybek lessen in Amsterdam. Elke dinsdag 19:30–21:30. Geen niveauvereiste, beginners welkom. Eerste les gratis."
+    },
+    "events": {
+      "title": "Optredens & Evenementen | Zeybek Academy Amsterdam",
+      "description": "Zeybek lessen of Zeybek Academy optredens voor uw bruiloft. Turkse culturele evenementen en sociale bijeenkomsten."
+    },
+    "privateLessons": {
+      "title": "Privé Zeybek Lessen Amsterdam | Zeybek Academy",
+      "description": "Individuele, groeps- en bruid & bruidegom zeybek lessen in Amsterdam."
+    },
+    "gallery": {
+      "title": "Galerij | Zeybek Academy Amsterdam",
+      "description": "Foto's van Zeybek Academy lessen, optredens en evenementen."
+    },
+    "contact": {
+      "title": "Contact | Zeybek Academy Amsterdam",
+      "description": "Neem contact op met Zeybek Academy. Voor lesregistratie, privélessen en bruiloftsoptredens."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen | Zeybek Academy Amsterdam",
+      "description": "Antwoorden op veelgestelde vragen over Zeybek Academy."
+    },
+    "zeybek": {
+      "title": "Wat is Zeybek? Geschiedenis, Cultuur & Dans | Zeybek Academy",
+      "description": "Ontdek de geschiedenis, cultuur, houding, muziek en dansen van zeybek."
+    },
+    "what": { "title": "Wat is Zeybek? | Zeybek Academy", "description": "Zeybek is een traditionele volksdans en culturele traditie, nauw verbonden met de West-Anatolische en Egeïsche cultuur." },
+    "history": { "title": "Geschiedenis van Zeybek | Zeybek Academy", "description": "De historische ontwikkeling van zeybek, verweven met de sociale en culturele geschiedenis van West-Anatolië." },
+    "culture": { "title": "Zeybek Cultuur | Zeybek Academy", "description": "De rijke wereld van zeybek cultuur gevormd door muziek, kostuum, houding en regionale verhalen." },
+    "dance": { "title": "Zeybek Dans | Zeybek Academy", "description": "De unieke houding, figuren en leeraanpak van zeybek dans." },
+    "posture": { "title": "Zeybek Houding | Zeybek Academy", "description": "De houding en lichaamsgebruik die het karakter en zelfvertrouwen van zeybek draagt." },
+    "music": { "title": "Zeybek Muziek | Zeybek Academy", "description": "De ritmische structuur, muzikaal karakter en regionale kenmerken van zeybek dansen." },
+    "dances": { "title": "Zeybek Dansen & Regio's | Zeybek Academy", "description": "De diversiteit en culturele rijkdom van zeybek dansen uit verschillende regio's." },
+    "repertoire": { "title": "Ons Repertoire | Zeybek Academy", "description": "Het uitgebreide zeybek repertoire van Zeybek Academy: dansnamen, regio's, karakters en niveaus." }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Amsterdam",
+      "title": "ZEYBEK ACADEMY",
+      "subtitle": "Wij leren, bewaren en dansen samen zeybek in Amsterdam.",
+      "cta1": "Ontdek Zeybek",
+      "cta2": "Doe Mee Met Lessen"
+    },
+    "intro": {
+      "text": "Zeybek Academy is een academie opgericht voor mensen die de zeybek dans en cultuur op een correcte manier willen leren, bewaren en samen dansen in Amsterdam."
+    },
+    "notDance": {
+      "heading": "Zeybek is niet alleen een dans",
+      "subheading": "Een houding. Een karakter. Een cultuur.",
+      "body1": "Voor ons is zeybek niet alleen een dans bestaande uit een paar figuren. Wat het bijzonder maakt is zijn unieke manier, houding, muziek, bewegingen en het culturele erfgoed dat het draagt.",
+      "body2": "In onze lessen, terwijl we traditionele figuren correct leren, ontdekken we ook de houding van zeybek en de cultuur erachter. Want goed zeybek dansen is niet alleen de stappen kennen, maar het karakter van zeybek kunnen begrijpen.",
+      "cta": "Ontdek zeybek cultuur"
+    },
+    "whyLearn": {
+      "heading": "Waarom zou je zeybek leren?",
+      "items": {
+        "play": { "title": "Zeybek dansen", "desc": "Leer unieke dansen en figuren om zeybek te kunnen dansen." },
+        "confidence": { "title": "Zelfvertrouwen opbouwen", "desc": "Ontwikkel zelfvertrouwen door de krachtige houding van zeybek en scèneervaring." },
+        "posture": { "title": "Houding & lichaamscontrole", "desc": "Ontwikkel balans, coördinatie, lichaamsbewustzijn en een sterke houding." },
+        "culture": { "title": "Verbinding met Turkse cultuur", "desc": "Ervaar en leer een belangrijk onderdeel van de Turkse cultuur terwijl je ver van Turkije bent." },
+        "social": { "title": "Bouw een sociale kring", "desc": "Word onderdeel van de gemeenschap gevormd door lessen en evenementen." },
+        "hobby": { "title": "Ontdek een nieuwe hobby", "desc": "Ontdek een nieuw bezigheid met culturele, sociale en fysieke dimensies." }
+      }
+    },
+    "lessons": {
+      "heading": "Onze Lessen",
+      "subheading": "Elke dinsdag dansen we zeybek in Amsterdam.",
+      "schedule": "Dinsdag 19:30–21:30",
+      "duration": "2 × 50 minuten les",
+      "noLevel": "Geen niveauverschil",
+      "anyTime": "Beginners kunnen het hele jaar door meedoen",
+      "noExperience": "Geen danservaring vereist",
+      "onlyZeybek": "Lessen zijn uitsluitend over zeybek dansen",
+      "language": "Groepslessen in het Turks; Engels indien nodig",
+      "free": "Eerste les gratis",
+      "season": "Seizoen: Begin oktober – Eind mei",
+      "cta": "Ik Wil Mijn Eerste Les Proberen"
+    },
+    "culture": {
+      "heading": "Ontdek zeybek cultuur",
+      "body": "Zeybek begrijpen betekent niet alleen de dansen leren, maar ook de geschiedenis, cultuur, muziek, houding en regionale karakters leren kennen.",
+      "cta": "Ontdek Zeybek"
+    },
+    "community": {
+      "heading": "Meer dan een lesgroep",
+      "body1": "We leren samen in lessen, praten tijdens pauzes en komen ook buiten lessen samen. We versterken onze gemeenschap met sociale evenementen zoals picknicks, brunches en diners.",
+      "body2": "Nieuwe mensen ontmoeten en samen tijd doorbrengen terwijl je de thuiscultuur levend houdt ver van Turkije is een belangrijk onderdeel van de Zeybek Academy ervaring.",
+      "cta": "Ontdek Onze Gemeenschap"
+    },
+    "performances": {
+      "heading": "Zeybek op het podium",
+      "body1": "We moedigen studenten die een goed niveau hebben bereikt aan om op vrijwillige basis deel te nemen aan optredens op bruiloften en Turkse culturele evenementen.",
+      "body2": "Voor studenten die minstens drie dansen goed kunnen dansen wordt een repetitie gehouden voor het optreden. Deelname aan optredens is niet verplicht; maar wij geloven dat podiumervaring een zeer bijzondere en waardevolle ervaring voor studenten is.",
+      "pastEvents": "Tot nu toe hebben we deelgenomen aan evenementen van het Turkse Consulaat en Ambassade, 19 mei evenementen, Turkse cultuur/eten evenementen en vele bruiloften.",
+      "cta": "Ontdek Onze Optredens"
+    },
+    "privateLessons": {
+      "heading": "Privélessen",
+      "couple": "Privé zeybek les voor bruid & bruidegom",
+      "individual": "Privé zeybek les",
+      "show": "Bruiloftsoptreden",
+      "note": "We kunnen ook privélessen in het Engels geven voor koppels die geen Turks spreken.",
+      "cta": "Informatie Over Privélessen"
+    },
+    "story": {
+      "heading": "Ons Verhaal",
+      "quote": "Zeybek is altijd deel van mijn leven geweest. Als iemand uit Aydın was zeybek een natuurlijk onderdeel van mijn leven vanaf mijn kindertijd. Zeybek zien en horen op bruiloften, in parken, bij speciale evenementen – zelfs soms op de markt – was een gewoon iets in het dagelijks leven.\n\nIk leer en dans zeybek professioneel sinds 2017. In 2020 ben ik begonnen met lesgeven. Na mijn verhuizing naar Amsterdam in 2022 vroeg ik mezelf af: 'Waarom zou ik hier ook geen zeybek dansen, waarom zou ik het niet onderwijzen?'\n\nIn 2023 ben ik begonnen met de eerste zeybek lessen in Amsterdam. Zeybek Academy is als de natuurlijke voortzetting van dit proces ontstaan.\n\nHet doel is eigenlijk heel eenvoudig: ik hou heel veel van zeybek dansen. Ik wil het leren aan mensen die het willen leren en samen met iedereen dansen.\n\nWant voor mij is zeybek veel meer dan een dans. Een houding, een persoonlijkheid, een karakter.",
+      "cta": "Leer Ons Verhaal Beter Kennen"
+    },
+    "finalCta": {
+      "heading": "Heb je nog nooit zeybek geprobeerd?",
+      "body": "Je hoeft niet te weten hoe je moet dansen. Kom, laten we samen zeybek ontdekken in onze eerste les.",
+      "cta1": "Eerste Les Gratis – Ik Wil Meedoen",
+      "cta2": "Neem Contact Op voor Privélessen of Optredens"
+    }
+  },
+  "zeybek": {
+    "hub": {
+      "heading": "Klaar om zeybek te ontdekken?",
+      "body": "Zeybek is een krachtige traditie die dans, muziek, houding, manier en cultureel geheugen combineert. In dit gedeelte kun je ontdekken wat zeybek is, de geschiedenis, cultuur, dans en karakters in verschillende regio's."
+    },
+    "what": {
+      "eyebrow": "Over Zeybek",
+      "title": "Wat is Zeybek?",
+      "body1": "Zeybek is een traditionele volksdans en culturele traditie die sterk geassocieerd wordt met de West-Anatolische en Egeïsche cultuur.",
+      "body2": "Zeybek is niet beperkt tot één enkele dans of reeks figuren. Het bestaat in verschillende vormen in verschillende regio's, verschillende dansen en verschillende muzikale karakters.",
+      "body3": "Bij Zeybek Academy benaderen we zeybek niet alleen als figuren, maar samen met de manier, houding, muziek en culturele achtergrond van de dans.",
+      "cta": "Doe Mee Met Lessen"
+    },
+    "history": {
+      "eyebrow": "Geschiedenis",
+      "title": "Geschiedenis van Zeybek",
+      "body1": "De geschiedenis van zeybek is een veellagig onderwerp verweven met de sociale en culturele geschiedenis van West-Anatolië.",
+      "body2": "Hoe het concept zeybek door de geschiedenis heen werd gebruikt, de sociale positie van zeybek beoefenaars, en hoe de zeybek cultuur in de loop van de tijd veranderde, zijn op verschillende manieren behandeld in verschillende bronnen.",
+      "body3": "Daarom richten we ons in dit gedeelte op het overbrengen van de historische ontwikkeling van zeybek op een begrijpelijke manier door te putten uit betrouwbare historische bronnen, in plaats van één verhaal als absolute waarheid te presenteren."
+    },
+    "culture": {
+      "eyebrow": "Cultuur",
+      "title": "Zeybek Cultuur",
+      "body1": "Zeybek cultuur is niet alleen dansen.",
+      "body2": "Muziek, kostuum, houding, manier, regionale verhalen, collectief geheugen en de verhalen gedragen door de dansen vormen verschillende delen van de zeybek cultuur.",
+      "body3": "Voor ons betekent de cultuur levend houden niet het bevriezen van het verleden zoals het is; het betekent traditionele kennis correct kunnen doorgeven aan nieuwe generaties en mensen buiten Turkije.",
+      "approachHeading": "Zeybek Academy Aanpak",
+      "approachBody": "Terwijl we figuren in lessen onderwijzen, hechten we ook belang aan 'Wat is het karakter van deze beweging, hoe wordt het gedanst en uit welke culturele context komt het?' naast 'Hoe wordt deze beweging uitgevoerd?'"
+    },
+    "dance": {
+      "eyebrow": "Dans",
+      "title": "Zeybek Dans",
+      "body1": "Zeybek dans is een krachtige uitdrukkingsvorm met zijn unieke houding, arm- en lichaamsgebruik, stappen, ritmische structuur en danskarakters.",
+      "body2": "Het begrijpen van de manier, de relatie met muziek en lichaamscontrole is net zo belangrijk als het correct leren van figuren.",
+      "body3": "Bij Zeybek Academy kunnen vrouwelijke en mannelijke studenten samen de mannelijke zeybeks in ons repertoire dansen.",
+      "approachHeading": "Onze Leeraanpak",
+      "approachItems": ["Correct leren van figuren", "Houding en lichaamscontrole", "Harmonie met muziek", "Het karakter van de dans begrijpen", "Leren zonder van traditie af te wijken"]
+    },
+    "posture": {
+      "eyebrow": "Houding",
+      "title": "Zeybek Houding",
+      "body1": "Zeybek houding is een van de meest kenmerkende elementen van de dans.",
+      "body2": "Houding is niet alleen de vorm die het lichaam aanneemt. Het is een uitdrukkingsvorm die het karakter, het zelfvertrouwen en de manier van zeybek draagt.",
+      "body3": "In onze lessen richten we ons naast het correct uitvoeren van een figuur ook op het kunnen dragen van dat figuur op een manier die past bij het karakter van zeybek.",
+      "body4": "We geloven dat de ontwikkeling van lichaamsbewustzijn en controle tijdens het leren van zeybek ook kan bijdragen aan de houding van studenten in het dagelijks leven."
+    },
+    "music": {
+      "eyebrow": "Muziek",
+      "title": "Zeybek Muziek",
+      "body1": "Een van de belangrijke manieren om zeybek dansen te begrijpen is de muziek te begrijpen.",
+      "body2": "Het ritme, tempo, melodie en de relatie van instrumenten met het karakter van de dans beïnvloeden hoe de dans gevoeld en gedanst zal worden.",
+      "body3": "Dit gedeelte zal in de loop van de tijd worden uitgebreid met inhoud die de muzikale karakters, ritmes en regionale kenmerken van verschillende zeybek dansen introduceert."
+    },
+    "dances": {
+      "eyebrow": "Regio's",
+      "title": "Zeybek Dansen & Regio's",
+      "body1": "Zeybek repertoire is niet uniform.",
+      "body2": "Tempo, figuren, manier, muziek en uitvoeringsstijlen kunnen variëren in verschillende regio's en dansen. Deze verschillen zijn een belangrijk onderdeel van de rijkdom van de zeybek cultuur.",
+      "body3": "In dit gedeelte zullen we de dansen in ons repertoire zoveel mogelijk introduceren samen met hun regio, karakter en korte verhaal."
+    },
+    "repertoire": {
+      "eyebrow": "Repertoire",
+      "title": "Ons Repertoire",
+      "body": "Een van de sterkste kenmerken van Zeybek Academy is zijn uitgebreide en groeiende repertoire. We streven ernaar de dansen in ons repertoire niet alleen bij naam te presenteren, maar met hun regio, karakter, niveau en video-voorbeelden waar mogelijk.",
+      "tableHeaders": {
+        "name": "Dansnaam",
+        "region": "Regio",
+        "character": "Karakter",
+        "level": "Niveau",
+        "description": "Korte Beschrijving",
+        "video": "Video",
+        "season": "Seizoen"
+      },
+      "comingSoon": "De volledige repertoirelijst wordt binnenkort toegevoegd."
+    }
+  },
+  "about": {
+    "eyebrow": "Wie Zijn Wij?",
+    "title": "Over Ons",
+    "whoWeAre": {
+      "heading": "Wie zijn wij?",
+      "body1": "Zeybek Academy is een zeybek academie die actief is in Amsterdam met als doel de zeybek cultuur levend te houden en correct te onderwijzen.",
+      "body2": "Onze onderwijsaanpak is gebaseerd op het delen van de manier, houding, muziek, cultuur en verhaal van zeybek buiten de figuren."
+    },
+    "story": {
+      "heading": "Ons Oprichtingsverhaal",
+      "body1": "Zeybek is altijd deel van mijn leven geweest. Als iemand uit Aydın groeide ik op verweven met zeybek vanaf mijn kindertijd.",
+      "body2": "In 2017 begon ik professioneel zeybek te leren en te dansen. In 2020 begon ik met lesgeven. Toen ik in 2022 naar Amsterdam verhuisde, ontstond het idee om hier ook zeybek te dansen en te onderwijzen. In 2023 begon ik de eerste lessen.",
+      "body3": "Zeybek Academy is de natuurlijke voortzetting van deze reis en liefde voor zeybek."
+    },
+    "why": {
+      "heading": "Waarom onze eigen academie?",
+      "body": "Omdat we heel veel van zeybek dansen houden en het willen delen met mensen die het willen leren en samen met iedereen willen dansen."
+    },
+    "vision": {
+      "heading": "Onze Visie",
+      "body": "Bijdragen aan de correcte, respectvolle en krachtige erkenning van zeybek cultuur buiten Turkije en proberen zeybek dans internationaal op de plaats te brengen die het verdient."
+    },
+    "cta": "Neem Contact Op"
+  },
+  "lessons": {
+    "eyebrow": "Elke Dinsdag · Amsterdam",
+    "title": "Lessen",
+    "heading": "Wekelijkse Groepslessen",
+    "subheading": "Elke dinsdag · 19:30–21:30 · Amsterdam",
+    "twoLessons": "Twee opeenvolgende lessen van 50 minuten.",
+    "details": {
+      "schedule": "Dinsdag 19:30–21:30",
+      "duration": "2 × 50 minuten",
+      "free": "Eerste les gratis",
+      "season": "Oktober – Mei"
+    },
+    "level": {
+      "heading": "Lesniveau",
+      "body": "Momenteel hebben we geen aparte groepen voor beginners, gemiddeld en gevorderd. Iedereen leert samen nieuwe dansen en lessen vorderen op een gemiddeld niveau."
+    },
+    "beginners": {
+      "heading": "Beginners",
+      "body": "Een beginner kan het hele jaar door meedoen. Geen eerdere danservaring of kennis van andere volksdansen is vereist."
+    },
+    "language": {
+      "heading": "Lestaal",
+      "body": "Groepslessen worden momenteel in het Turks gegeven. Wanneer een niet-Turks sprekende student meedoet, kan de les indien nodig worden vertaald naar het Engels."
+    },
+    "flow": {
+      "heading": "Lesverloop",
+      "steps": ["Opwarming met eerder geleerde dansen", "Korte samenvatting van de les van de vorige week", "Introductie van het nieuwe figuur", "Toepassing van het nieuwe figuur op de dans en herhaling"]
+    },
+    "season": {
+      "heading": "Seizoen",
+      "body": "Lessen beginnen begin oktober en eindigen eind mei."
+    },
+    "firstLesson": {
+      "heading": "Eerste Les",
+      "body": "De eerste les voor nieuwe registraties is een proefles en is gratis.",
+      "cta": "Neem Contact Op voor de Eerste Les"
+    },
+    "forWhom": {
+      "heading": "Voor Wie?",
+      "items": ["Degenen die nog nooit hebben gedanst", "Degenen die zeybek willen leren", "Degenen die geïnteresseerd zijn in de Turkse cultuur", "Degenen die hun culturele band willen versterken terwijl ze ver van Turkije zijn", "Degenen die op zoek zijn naar een nieuwe sociale kring en hobby"]
+    },
+    "age": {
+      "heading": "Leeftijdsgrens",
+      "body": "Er is een leeftijdsgrens voor kinderen onder de 10 jaar."
+    }
+  },
+  "performances": {
+    "eyebrow": "Optredens & Evenementen",
+    "title": "Optredens & Evenementen",
+    "performances": {
+      "heading": "Optredens",
+      "body1": "Een belangrijk onderdeel van het leren van zeybek is het kunnen ervaren van wat je hebt geleerd in een echte setting.",
+      "body2": "We moedigen studenten die een voldoende niveau hebben bereikt aan om op vrijwillige basis deel te nemen aan optredens op bruiloften en Turkse culturele evenementen.",
+      "body3": "Het is belangrijk om een bepaald niveau te bereiken voor een optreden. Voor studenten die minstens drie dansen goed kunnen dansen wordt een repetitie gehouden.",
+      "body4": "Deelname aan optredens is niet verplicht. We geloven echter dat podiumervaring een zeer bijzondere en waardevolle ervaring voor studenten is."
+    },
+    "pastEvents": {
+      "heading": "Voorbeelden van Evenementen We Hebben Deelgenomen",
+      "items": ["Turkse Consulaat evenementen", "Turkse Ambassade evenementen", "19 mei evenementen", "Turkse eten en cultuur thema evenementen", "Bruiloften"]
+    },
+    "wedding": {
+      "heading": "Bruiloftsoptredens",
+      "body": "De meeste verzoeken voor optredens komen van bruiloften. Als u een zeybek optreden op uw bruiloft wilt zien, kunt u contact met ons opnemen.",
+      "cta": "Informatie Over Bruiloftsoptreden"
+    },
+    "social": {
+      "heading": "Sociale Evenementen",
+      "body": "Zeybek Academy is niet alleen lessen. We organiseren ook sociale evenementen zoals picknicks, brunches en diners om onze gemeenschap te versterken."
+    },
+    "future": {
+      "heading": "Onze Toekomstplannen",
+      "body": "Naarmate onze aantallen en gemeenschap groeien, willen we onze eigen evenementen organiseren, zeybek workshops houden en evenementen organiseren die de Turkse cultuur promoten."
+    }
+  },
+  "privateLessons": {
+    "eyebrow": "Speciaal Voor Jou",
+    "title": "Privélessen",
+    "couple": {
+      "heading": "Privé Zeybek Les voor Bruid & Bruidegom",
+      "body1": "Als u samen zeybek wilt dansen op uw bruiloft, kunt u zich voorbereiden met privélessen op maat.",
+      "body2": "Eerdere danservaring is niet vereist. Lessen kunnen worden gepland op basis van het niveau van het koppel en de gekozen dans.",
+      "note": "We kunnen ook privélessen in het Engels geven voor bruiden en bruidegoms die geen Turks spreken.",
+      "cta": "Neem Contact Op voor Bruid & Bruidegom Les"
+    },
+    "individual": {
+      "heading": "Privé Zeybek Les",
+      "body": "We bieden privélessen aan voor degenen die zeybek individueel of in een privégroep willen leren, zich op een specifieke dans willen concentreren of hun huidige niveau willen verbeteren.",
+      "cta": "Informatie Over Privélessen"
+    },
+    "show": {
+      "heading": "Bruiloftsoptreden",
+      "body": "Als u wilt dat Zeybek Academy optreedt op uw bruiloft, kunt u uw aanvraag indienen.",
+      "cta": "Optreden Aanvragen"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Galerij",
+    "title": "Galerij",
+    "lessons": { "heading": "Lessen", "desc": "Echte momenten uit lessen, het leerproces en de dansen die we samen spelen." },
+    "performances": { "heading": "Optredens", "desc": "Beelden van bruiloften, culturele evenementen en onze podiumervaring." },
+    "events": { "heading": "Evenementen", "desc": "Picknicks, brunches, diners en andere gemeenschapsbijeenkomsten." },
+    "video": { "heading": "Video", "desc": "Ontdek zeybek video's op ons YouTube kanaal.", "cta": "Ons YouTube Kanaal" },
+    "comingSoon": "Foto's worden binnenkort toegevoegd."
+  },
+  "contact": {
+    "eyebrow": "Bereik Ons",
+    "title": "Contact",
+    "heading": "Neem Contact Op",
+    "body": "U kunt ons bereiken om mee te doen aan lessen, privélessen te volgen, informatie te krijgen over bruiloftsoptredens of vragen te stellen over Zeybek Academy.",
+    "emailLabel": "E-mail",
+    "email": "info@zeybekacademy.nl",
+    "socialLabel": "Sociale Media",
+    "whatsapp": {
+      "heading": "WhatsApp",
+      "body": "U kunt ons ook bereiken via WhatsApp voor snelle informatie.",
+      "number": "Nummer wordt binnenkort toegevoegd"
+    },
+    "form": {
+      "heading": "Stuur een Bericht",
+      "name": "Volledige Naam",
+      "namePlaceholder": "Uw naam en achternaam",
+      "email": "E-mail",
+      "emailPlaceholder": "voorbeeld@email.com",
+      "phone": "Telefoon / WhatsApp",
+      "phonePlaceholder": "+31 ...",
+      "service": "Gewenste Dienst",
+      "servicePlaceholder": "Selecteer",
+      "serviceOptions": {
+        "weekly": "Wekelijkse les",
+        "private": "Privéles",
+        "couple": "Bruid & bruidegom les",
+        "wedding": "Bruiloftsoptreden",
+        "other": "Anders"
+      },
+      "message": "Bericht",
+      "messagePlaceholder": "Schrijf uw bericht hier...",
+      "submit": "Stuur Bericht",
+      "sending": "Verzenden...",
+      "success": "Uw bericht is ontvangen! We nemen zo snel mogelijk contact met u op.",
+      "error": "Er is een fout opgetreden. Probeer het opnieuw of stuur direct een e-mail."
+    }
+  },
+  "faq": {
+    "eyebrow": "Heeft u vragen?",
+    "title": "Veelgestelde Vragen",
+    "heading": "Veelgestelde Vragen",
+    "items": [
+      { "q": "Ik heb nog nooit gedanst. Kan ik meedoen?", "a": "Ja. Geen eerdere danservaring is vereist." },
+      { "q": "Is de eerste les gratis?", "a": "Ja. De eerste les voor nieuwe registraties is gratis." },
+      { "q": "Kan ik midden in het jaar beginnen?", "a": "Ja. Beginners kunnen het hele jaar door meedoen." },
+      { "q": "Op welke dag en tijd zijn de lessen?", "a": "Elke dinsdag 19:30–21:30." },
+      { "q": "Hoe lang duren de lessen?", "a": "Twee opeenvolgende lessen van 50 minuten." },
+      { "q": "Zijn er beginner en gevorderd niveau groepen?", "a": "Momenteel is er geen niveauverschil. Iedereen leert samen en lessen vorderen op een gemiddeld niveau." },
+      { "q": "Ik spreek geen Turks. Kan ik meedoen?", "a": "Ja. Engels kan indien nodig worden gebruikt in groepslessen; privélessen kunnen in het Engels worden gegeven." },
+      { "q": "Geven jullie ook andere volksdansen?", "a": "Nee. Onze lessen zijn uitsluitend over zeybek dansen." },
+      { "q": "Kunnen vrouwen mannelijke zeybek dansen?", "a": "Ja. Vrouwelijke en mannelijke studenten kunnen samen de mannelijke zeybeks in ons repertoire dansen." },
+      { "q": "Is deelname aan optredens verplicht?", "a": "Nee. Optredens zijn volledig vrijwillig." },
+      { "q": "Op welk niveau moet ik zijn om deel te nemen aan een optreden?", "a": "Je moet minstens drie dansen goed kunnen dansen en willen deelnemen. Er wordt een repetitie gehouden voor het optreden." },
+      { "q": "Kunnen we zeybek leren voor onze bruiloft?", "a": "Ja. We geven privélessen voor bruiden en bruidegoms." },
+      { "q": "Kan Zeybek Academy optreden op onze bruiloft?", "a": "Ja. U kunt contact met ons opnemen voor een bruiloftsoptreden." },
+      { "q": "Waar zijn de lessen?", "a": "In Amsterdam, vlakbij Westerpark, op de Zeybek Academy locatie." },
+      { "q": "Wat zijn de leskosten?", "a": "Leskosten worden niet gepubliceerd op de website. Neem contact op voor actuele informatie." },
+      { "q": "Vanaf welke leeftijd kan ik meedoen?", "a": "Er is een leeftijdsgrens voor kinderen onder de 10 jaar." }
+    ],
+    "stillQuestions": "Nog vragen?",
+    "contactCta": "Neem Contact Op"
+  },
+  "location": {
+    "eyebrow": "Locatie",
+    "title": "Locatie",
+    "heading": "Zeybek Academy Locatie",
+    "body1": "Onze lessen vinden plaats in een studio vlakbij Westerpark in Amsterdam.",
+    "body2": "De studio biedt een warme en uitnodigende omgeving. Het heeft een houten vloer en spiegel. Een ruimte waar ongeveer 10 mensen comfortabel les kunnen volgen.",
+    "body3": "Het is mogelijk om naar de voordeur of achtertuin te gaan om te socialiseren tijdens lespauzes.",
+    "schedule": "Elke dinsdag · 19:30–21:30",
+    "cta": "Openen in Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/MZY1UWAAw5XJbWVa8",
+    "note": "Het officiële geregistreerde adres van het bedrijf is in Utrecht. Het bovenstaande adres is de leslocatie."
+  },
+  "common": {
+    "learnMore": "Meer Informatie",
+    "contactUs": "Neem Contact Op",
+    "backToHome": "Terug naar Home",
+    "firstLessonFree": "Eerste Les Gratis",
+    "discover": "Ontdek",
+    "readMore": "Meer Lezen"
+  }
+}

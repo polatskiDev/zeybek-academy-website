@@ -1,0 +1,494 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "zeybek": "Zeybek",
+    "academy": "Academy",
+    "lessons": "Dersler",
+    "events": "Gösteriler & Etkinlikler",
+    "privateLessons": "Özel Dersler",
+    "gallery": "Galeri",
+    "contact": "İletişim",
+    "faq": "SSS",
+    "zeybekMenu": {
+      "hub": "Zeybek'i Keşfet",
+      "what": "Zeybek Nedir?",
+      "history": "Zeybeklerin Tarihi",
+      "culture": "Zeybek Kültürü",
+      "dance": "Zeybek Dansı",
+      "posture": "Zeybek Duruşu",
+      "music": "Zeybek Müziği",
+      "dances": "Zeybek Oyunları ve Yöreler",
+      "repertoire": "Repertuarımız"
+    }
+  },
+  "footer": {
+    "tagline": "Amsterdam'da zeybek kültürünü öğreniyor, yaşatıyor ve birlikte oynuyoruz.",
+    "slogan": "Zeybek sadece bir danstan ibaret değildir. Bir duruş. Bir karakter. Bir kültür.",
+    "pages": "Sayfalar",
+    "contact": {
+      "email": "info@zeybekacademy.nl"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "youtube": "YouTube"
+    },
+    "links": {
+      "title": "Bağlantılar",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "cookies": "Cookie Politikası"
+    },
+    "legal": {
+      "company": "Zeybek Academy",
+      "type": "Eenmanszaak",
+      "kvk": "KvK: [yakında eklenecek]",
+      "address": "Oudenoord 432, 3513 EX Utrecht"
+    },
+    "rights": "© {year} Zeybek Academy. Tüm hakları saklıdır."
+  },
+  "metadata": {
+    "home": {
+      "title": "Zeybek Academy Amsterdam | Zeybek Dansı ve Kültürü",
+      "description": "Amsterdam'da zeybek kültürünü öğrenin, geleneksel zeybek oyunlarını doğru teknikle keşfedin ve birlikte oynayın. İlk ders ücretsiz."
+    },
+    "about": {
+      "title": "Hakkımızda | Zeybek Academy Amsterdam",
+      "description": "Zeybek Academy'nin kuruluş hikâyesi, misyonu ve vizyonu."
+    },
+    "lessons": {
+      "title": "Zeybek Kursu Amsterdam | Zeybek Academy",
+      "description": "Amsterdam'da zeybek dersi. Her Salı 19:30–21:30. Seviye ayrımı yok, yeni başlayanlar katılabilir. İlk ders ücretsiz."
+    },
+    "events": {
+      "title": "Gösteriler & Etkinlikler | Zeybek Academy Amsterdam",
+      "description": "Düğününüz için zeybek dersi veya Zeybek Academy performansı. Türk kültür etkinlikleri ve sosyal buluşmalar."
+    },
+    "privateLessons": {
+      "title": "Özel Zeybek Dersi Amsterdam | Zeybek Academy",
+      "description": "Amsterdam'da bireysel, özel grup ve gelin-damat zeybek dersleri."
+    },
+    "gallery": {
+      "title": "Galeri | Zeybek Academy Amsterdam",
+      "description": "Zeybek Academy derslerinden, gösterilerinden ve etkinliklerinden fotoğraflar."
+    },
+    "contact": {
+      "title": "İletişim | Zeybek Academy Amsterdam",
+      "description": "Zeybek Academy ile iletişime geçin. Ders kaydı, özel ders ve düğün gösterisi için bize ulaşın."
+    },
+    "faq": {
+      "title": "Sık Sorulan Sorular | Zeybek Academy Amsterdam",
+      "description": "Zeybek Academy hakkında merak edilenlerin cevapları."
+    },
+    "zeybek": {
+      "title": "Zeybek Nedir? Tarihi, Kültürü ve Dansı | Zeybek Academy",
+      "description": "Zeybek'in tarihi, kültürü, duruşu, müziği ve oyunlarını keşfedin."
+    },
+    "what": {
+      "title": "Zeybek Nedir? | Zeybek Academy",
+      "description": "Zeybek; Batı Anadolu ve Ege kültürüyle ilişkili geleneksel bir halk oyunu ve kültürel gelenektir."
+    },
+    "history": {
+      "title": "Zeybeklerin Tarihi | Zeybek Academy",
+      "description": "Zeybeklerin Batı Anadolu'nun sosyal ve kültürel tarihiyle iç içe geçmiş tarihsel gelişimi."
+    },
+    "culture": {
+      "title": "Zeybek Kültürü | Zeybek Academy",
+      "description": "Zeybek kültürünün müzik, kıyafet, duruş ve yöresel anlatılarla oluşan zengin dünyası."
+    },
+    "dance": {
+      "title": "Zeybek Dansı | Zeybek Academy",
+      "description": "Zeybek dansının kendine özgü duruşu, figürleri ve öğrenme yaklaşımı."
+    },
+    "posture": {
+      "title": "Zeybek Duruşu | Zeybek Academy",
+      "description": "Zeybeğin karakterini ve özgüvenini taşıyan duruş ve beden kullanımı."
+    },
+    "music": {
+      "title": "Zeybek Müziği | Zeybek Academy",
+      "description": "Zeybek oyunlarının ritmik yapısı, müzikal karakteri ve yöresel özellikleri."
+    },
+    "dances": {
+      "title": "Zeybek Oyunları ve Yöreler | Zeybek Academy",
+      "description": "Farklı yörelerdeki zeybek oyunlarının çeşitliliği ve kültürel zenginliği."
+    },
+    "repertoire": {
+      "title": "Repertuarımız | Zeybek Academy",
+      "description": "Zeybek Academy'nin geniş zeybek repertuarı: oyun adları, yöreler, karakterler ve seviyeler."
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Amsterdam",
+      "title": "ZEYBEK ACADEMY",
+      "subtitle": "Amsterdam'da zeybek kültürünü öğreniyor, yaşatıyor ve birlikte oynuyoruz.",
+      "cta1": "Zeybek'i Keşfet",
+      "cta2": "Derslere Katıl"
+    },
+    "intro": {
+      "text": "Zeybek Academy, Amsterdam'da zeybek dansını ve kültürünü doğru şekilde öğrenmek, yaşatmak ve birlikte oynamak isteyenler için kurulmuş bir akademidir."
+    },
+    "notDance": {
+      "heading": "Zeybek sadece bir dans değildir",
+      "subheading": "Bir duruş. Bir karakter. Bir kültür.",
+      "body1": "Zeybek bizim için yalnızca birkaç figürden oluşan bir dans değildir. Onu özel yapan; kendine özgü tavrı, duruşu, müziği, hareketleri ve taşıdığı kültürel mirastır.",
+      "body2": "Derslerimizde geleneksel figürleri doğru şekilde öğrenirken, zeybeğin duruşunu ve arkasındaki kültürü de keşfediyoruz. Çünkü iyi zeybek oynamak yalnızca adımları bilmek değil, zeybeğin karakterini anlayabilmektir.",
+      "cta": "Zeybek kültürünü keşfet"
+    },
+    "whyLearn": {
+      "heading": "Neden zeybek öğrenmelisin?",
+      "items": {
+        "play": { "title": "Zeybek oynayabilmek", "desc": "Kendine özgü oyunları ve figürleri öğrenerek zeybek oynayabilmek." },
+        "confidence": { "title": "Özgüven kazanmak", "desc": "Zeybeğin güçlü duruşu ve sahne deneyimiyle kendine güvenini geliştirmek." },
+        "posture": { "title": "Duruş ve beden kontrolü", "desc": "Denge, koordinasyon, beden farkındalığı ve güçlü bir duruş geliştirmek." },
+        "culture": { "title": "Türk kültürüyle bağ kurmak", "desc": "Türkiye'den uzakta Türk kültürünün önemli bir parçasını yaşayarak öğrenmek." },
+        "social": { "title": "Sosyal bir çevre edinmek", "desc": "Derslerin ve etkinliklerin oluşturduğu topluluğun parçası olmak." },
+        "hobby": { "title": "Yeni bir hobi edinmek", "desc": "Kültürel, sosyal ve fiziksel yönleri olan yeni bir uğraş keşfetmek." }
+      }
+    },
+    "lessons": {
+      "heading": "Derslerimiz",
+      "subheading": "Her Salı Amsterdam'da zeybek oynuyoruz.",
+      "schedule": "Salı 19:30–21:30",
+      "duration": "2 × 50 dakika ders",
+      "noLevel": "Seviye ayrımı yok",
+      "anyTime": "Yeni başlayanlar yılın herhangi bir döneminde katılabilir",
+      "noExperience": "Daha önce dans bilmek gerekmez",
+      "onlyZeybek": "Dersler yalnızca zeybek oyunları üzerinedir",
+      "language": "Grup dersleri Türkçe; gerektiğinde İngilizce",
+      "free": "İlk ders ücretsiz",
+      "season": "Sezon: Ekim başı – Mayıs sonu",
+      "cta": "İlk Dersimi Denemek İstiyorum"
+    },
+    "culture": {
+      "heading": "Zeybek kültürünü keşfet",
+      "body": "Zeybeği anlamak; yalnızca oyunları öğrenmek değil, onun tarihini, kültürünü, müziğini, duruşunu ve yöresel karakterlerini de tanımaktır.",
+      "cta": "Zeybek'i Keşfet"
+    },
+    "community": {
+      "heading": "Bir ders grubundan daha fazlası",
+      "body1": "Derslerde birlikte öğreniyor, ders aralarında sohbet ediyor ve ders dışında da bir araya geliyoruz. Piknik, kahvaltı, akşam yemeği gibi sosyal etkinliklerle topluluğumuzu güçlendiriyoruz.",
+      "body2": "Türkiye'den uzakta memleket kültürünü yaşatırken yeni insanlarla tanışmak ve birlikte zaman geçirmek Zeybek Academy deneyiminin önemli bir parçası.",
+      "cta": "Topluluğumuzu Keşfet"
+    },
+    "performances": {
+      "heading": "Sahnede zeybek",
+      "body1": "İyi bir seviyeye gelen öğrencilerimizi, gönüllülük esasına göre düğünler ve Türk kültür etkinlikleri gibi organizasyonlarda gösterilere katılmaları için teşvik ediyoruz.",
+      "body2": "En az üç oyunu iyi seviyede oynayabilen öğrencilerimiz için gösteri öncesi prova yapılır. Gösteriye katılmak zorunlu değildir; ancak sahne deneyiminin öğrenciler için çok farklı ve değerli bir deneyim olduğuna inanıyoruz.",
+      "pastEvents": "Şimdiye kadar Türk Başkonsolosluğu ve Büyükelçiliği etkinlikleri, 19 Mayıs organizasyonları, Türk kültürü/yemekleri etkinlikleri ve çok sayıda düğünde yer aldık.",
+      "cta": "Gösterilerimizi Keşfet"
+    },
+    "privateLessons": {
+      "heading": "Özel dersler",
+      "couple": "Gelin & damat için özel zeybek dersi",
+      "individual": "Özel zeybek dersi",
+      "show": "Düğün gösterisi",
+      "note": "Türkçe bilmeyen çiftler için İngilizce özel ders de verebiliyoruz.",
+      "cta": "Özel Ders Hakkında Bilgi Al"
+    },
+    "story": {
+      "heading": "Hikâyemiz",
+      "quote": "Zeybek benim hayatımda her zaman vardı. Aydınlı olmam nedeniyle zeybek çocukluğumdan beri hayatımın doğal bir parçasıydı. Düğünlerde, parklarda, özel etkinliklerde; hatta bazen pazarda bile zeybek görmek ve duymak hayatın içindeki sıradan bir şeydi.\n\n2017 yılından beri profesyonel anlamda zeybek öğreniyor ve oynuyorum. 2020 yılında eğitmenliğe başladım. 2022 yılında Amsterdam'a taşındıktan sonra kendime şu soruyu sordum: 'Neden burada da zeybek oynamayayım, hatta neden öğretmeyeyim?'\n\n2023 yılında Amsterdam'da ilk zeybek derslerini vermeye başladım. Zeybek Academy ise bu sürecin doğal devamı olarak ortaya çıktı.\n\nAslında amaç çok basit: Zeybek oynamayı çok seviyorum. Bunu öğrenmek isteyen insanlara da öğretmek ve hep birlikte oynamak istiyorum.\n\nÇünkü benim için zeybek bir danstan çok daha fazlası. Bir duruş, bir kişilik, bir karakter.",
+      "cta": "Hikâyemizi Daha Yakından Tanıyın"
+    },
+    "finalCta": {
+      "heading": "Zeybek oynamayı hiç denemediniz mi?",
+      "body": "Daha önce dans bilmenize gerek yok. Gelin, ilk dersimizde zeybeği birlikte keşfedelim.",
+      "cta1": "İlk Ders Ücretsiz – Katılmak İstiyorum",
+      "cta2": "Özel Ders veya Gösteri İçin İletişime Geç"
+    }
+  },
+  "zeybek": {
+    "hub": {
+      "heading": "Zeybek'i keşfetmeye hazır mısın?",
+      "body": "Zeybek; dansın, müziğin, duruşun, tavrın ve kültürel hafızanın birleştiği güçlü bir gelenektir. Bu bölümde zeybeğin ne olduğunu, tarihini, kültürünü, dansını ve farklı yörelerdeki karakterlerini kısa ve anlaşılır içeriklerle keşfedebilirsiniz."
+    },
+    "what": {
+      "eyebrow": "Zeybek Hakkında",
+      "title": "Zeybek Nedir?",
+      "body1": "Zeybek, özellikle Batı Anadolu ve Ege kültürüyle güçlü biçimde ilişkilendirilen geleneksel bir halk oyunu ve kültürel gelenektir.",
+      "body2": "Zeybek tek bir oyun veya tek bir figür dizisinden ibaret değildir. Farklı yörelerde, farklı oyunlarda ve farklı müzikal karakterlerde çeşitli biçimleri vardır.",
+      "body3": "Zeybek Academy'de zeybeği yalnızca figür olarak değil, oyunun tavrı, duruşu, müziği ve kültürel arka planıyla birlikte ele alıyoruz.",
+      "cta": "Derslere Katıl"
+    },
+    "history": {
+      "eyebrow": "Tarih",
+      "title": "Zeybeklerin Tarihi",
+      "body1": "Zeybeklerin tarihi, Batı Anadolu'nun sosyal ve kültürel tarihiyle iç içe geçmiş çok katmanlı bir konudur.",
+      "body2": "Zeybek kavramının tarih boyunca nasıl kullanıldığı, zeybeklerin toplumsal konumu ve zaman içinde zeybek kültürünün nasıl dönüştüğü farklı kaynaklarda farklı biçimlerde ele alınmıştır.",
+      "body3": "Bu nedenle bu bölümde tek bir hikâyeyi kesin gerçek olarak sunmak yerine, güvenilir tarihsel kaynaklardan yararlanarak zeybeklerin tarihsel gelişimini anlaşılır biçimde aktarmayı hedefliyoruz."
+    },
+    "culture": {
+      "eyebrow": "Kültür",
+      "title": "Zeybek Kültürü",
+      "body1": "Zeybek kültürü yalnızca dans etmekten ibaret değildir.",
+      "body2": "Müzik, kıyafet, duruş, tavır, yöresel anlatılar, toplumsal hafıza ve oyunların taşıdığı hikâyeler zeybek kültürünün farklı parçalarını oluşturur.",
+      "body3": "Bizim için kültürü yaşatmak, geçmişi olduğu gibi dondurmak değil; geleneksel bilgiyi doğru anlayarak yeni nesillere ve Türkiye dışındaki insanlara aktarabilmektir.",
+      "approachHeading": "Zeybek Academy Yaklaşımı",
+      "approachBody": "Derslerde figürleri öğretirken 'Bu hareket nasıl yapılır?' sorusunun yanında 'Bu hareketin karakteri nedir, nasıl bir tavırla oynanır ve hangi kültürel bağlamdan gelir?' sorularını da önemsiyoruz."
+    },
+    "dance": {
+      "eyebrow": "Dans",
+      "title": "Zeybek Dansı",
+      "body1": "Zeybek dansı; kendine özgü duruşu, kol ve beden kullanımı, adımları, ritmik yapısı ve oyun karakterleriyle güçlü bir ifade biçimidir.",
+      "body2": "Figürlerin doğru öğrenilmesi kadar tavrın, müzikle ilişkinin ve beden kontrolünün anlaşılması da önemlidir.",
+      "body3": "Zeybek Academy'de kadın ve erkek öğrenciler repertuarımızdaki erkek zeybeklerini birlikte oynayabilir.",
+      "approachHeading": "Öğrenme Yaklaşımımız",
+      "approachItems": [
+        "Figürlerin doğru öğrenilmesi",
+        "Duruş ve beden kontrolü",
+        "Müzikle uyum",
+        "Oyunun karakterini anlamak",
+        "Geleneksellikten uzaklaşmadan öğrenmek"
+      ]
+    },
+    "posture": {
+      "eyebrow": "Duruş",
+      "title": "Zeybek Duruşu",
+      "body1": "Zeybek duruşu, oyunun en ayırt edici unsurlarından biridir.",
+      "body2": "Duruş yalnızca bedenin aldığı şekil değildir. Zeybeğin karakterini, özgüvenini ve tavrını taşıyan bir ifade biçimidir.",
+      "body3": "Derslerimizde bir figürü doğru yapmanın yanında o figürü zeybeğin karakterine uygun biçimde taşıyabilmeyi hedefliyoruz.",
+      "body4": "Zeybek öğrenirken beden farkındalığının ve kontrolünün gelişmesinin öğrencilerin günlük hayatındaki duruşlarına da katkı sağlayabileceğine inanıyoruz."
+    },
+    "music": {
+      "eyebrow": "Müzik",
+      "title": "Zeybek Müziği",
+      "body1": "Zeybek oyunlarını anlamanın önemli yollarından biri müziğini anlamaktır.",
+      "body2": "Ritim, tempo, ezgi ve çalgıların oyunun karakteriyle ilişkisi, dansın nasıl hissedileceğini ve nasıl oynanacağını etkiler.",
+      "body3": "Bu bölüm zaman içinde farklı zeybek oyunlarının müzikal karakterlerini, ritimlerini ve yöresel özelliklerini tanıtan içeriklerle genişletilecektir."
+    },
+    "dances": {
+      "eyebrow": "Yöreler",
+      "title": "Zeybek Oyunları ve Yöreler",
+      "body1": "Zeybek repertuarı tek tip değildir.",
+      "body2": "Farklı yörelerde ve oyunlarda tempo, figür, tavır, müzik ve icra biçimleri değişebilir. Bu farklılıklar zeybek kültürünün zenginliğinin önemli bir parçasıdır.",
+      "body3": "Bu bölümde repertuarımızdaki oyunları mümkün olduğunca yöresi, karakteri ve kısa hikâyesiyle birlikte tanıtacağız."
+    },
+    "repertoire": {
+      "eyebrow": "Repertuar",
+      "title": "Repertuarımız",
+      "body": "Zeybek Academy'nin en güçlü özelliklerinden biri geniş ve gelişen repertuarıdır. Oyunları yalnızca isim olarak değil; yöresi, karakteri, seviyesi ve mümkün olduğunda video örnekleriyle tanıtmayı hedefliyoruz.",
+      "tableHeaders": {
+        "name": "Oyun Adı",
+        "region": "Yöre",
+        "character": "Karakter",
+        "level": "Seviye",
+        "description": "Kısa Açıklama",
+        "video": "Video",
+        "season": "Sezon"
+      },
+      "comingSoon": "Tam repertuar listesi yakında eklenecektir."
+    }
+  },
+  "about": {
+    "eyebrow": "Biz Kimiz?",
+    "title": "Hakkımızda",
+    "whoWeAre": {
+      "heading": "Biz kimiz?",
+      "body1": "Zeybek Academy, Amsterdam'da zeybek kültürünü yaşatmak ve doğru şekilde öğretmek amacıyla faaliyet gösteren bir zeybek akademisidir.",
+      "body2": "Eğitim anlayışımız; figürlerin ötesinde zeybeğin tavrını, duruşunu, müziğini, kültürünü ve hikâyesini paylaşmaya dayanır."
+    },
+    "story": {
+      "heading": "Kuruluş Hikâyemiz",
+      "body1": "Zeybek benim hayatımda her zaman vardı. Aydınlı olmam nedeniyle çocukluğumdan beri zeybekle iç içe büyüdüm.",
+      "body2": "2017'de profesyonel olarak zeybek öğrenmeye ve oynamaya başladım. 2020'de eğitmenliğe başladım. 2022'de Amsterdam'a taşındığımda burada da zeybek oynama ve öğretme fikri doğdu. 2023'te ilk dersleri vermeye başladım.",
+      "body3": "Zeybek Academy, bu yolculuğun ve zeybek sevgisinin doğal devamıdır."
+    },
+    "why": {
+      "heading": "Neden kendi akademimiz?",
+      "body": "Çünkü zeybek oynamayı çok seviyoruz ve bunu öğrenmek isteyen insanlarla paylaşarak hep birlikte oynamak istiyoruz."
+    },
+    "vision": {
+      "heading": "Vizyonumuz",
+      "body": "Zeybek kültürünün Türkiye dışında da doğru, saygılı ve güçlü biçimde tanınmasına katkıda bulunmak ve zeybek dansını uluslararası alanda hak ettiği noktaya taşımaya çalışmak."
+    },
+    "cta": "İletişime Geç"
+  },
+  "lessons": {
+    "eyebrow": "Her Salı · Amsterdam",
+    "title": "Dersler",
+    "heading": "Haftalık Grup Dersleri",
+    "subheading": "Her Salı · 19:30–21:30 · Amsterdam",
+    "twoLessons": "İki adet 50 dakikalık ders arka arkaya yapılır.",
+    "details": {
+      "schedule": "Salı 19:30–21:30",
+      "duration": "2 × 50 dakika",
+      "free": "İlk ders ücretsiz",
+      "season": "Ekim – Mayıs"
+    },
+    "level": {
+      "heading": "Ders Seviyesi",
+      "body": "Şu anda başlangıç, orta ve ileri olarak ayrı gruplarımız bulunmuyor. Herkes birlikte yeni oyun öğreniyor ve dersler orta seviyede ilerliyor."
+    },
+    "beginners": {
+      "heading": "Yeni Başlayanlar",
+      "body": "Yeni başlayan biri yılın herhangi bir döneminde katılabilir. Daha önce dans bilmek veya başka bir halk oyunu öğrenmiş olmak gerekmez."
+    },
+    "language": {
+      "heading": "Ders Dili",
+      "body": "Grup dersleri şu anda Türkçe yapılmaktadır. Türkçe bilmeyen bir öğrenci katıldığında ders gerektiğinde İngilizceye çevrilebilir."
+    },
+    "flow": {
+      "heading": "Ders Akışı",
+      "steps": ["Daha önce öğrendiğimiz oyunların tekrar akışı", "Bir önceki hafta anlatılan dersin kısa özeti", "Yeni figürün anlatılması", "Yeni figürün oyuna uygulanması ve tekrar"]
+    },
+    "season": {
+      "heading": "Sezon",
+      "body": "Dersler Ekim başında başlar ve Mayıs sonunda sona erer."
+    },
+    "firstLesson": {
+      "heading": "İlk Ders",
+      "body": "Yeni kayıt yapacak kişilerin ilk dersi deneme dersi niteliğinde ve ücretsizdir.",
+      "cta": "İlk Ders İçin İletişime Geç"
+    },
+    "forWhom": {
+      "heading": "Kimler İçin?",
+      "items": ["Daha önce hiç dans etmemiş olanlar", "Zeybek öğrenmek isteyenler", "Türk kültürüne ilgi duyanlar", "Türkiye'den uzakta kültürel bağını güçlendirmek isteyenler", "Yeni bir sosyal çevre ve hobi arayanlar"]
+    },
+    "age": {
+      "heading": "Yaş Sınırı",
+      "body": "10 yaş altı için yaş sınırı bulunmaktadır."
+    }
+  },
+  "performances": {
+    "eyebrow": "Gösteriler & Etkinlikler",
+    "title": "Gösteriler & Etkinlikler",
+    "performances": {
+      "heading": "Gösteriler",
+      "body1": "Zeybek öğrenmenin önemli bir parçası, öğrendiklerini gerçek bir ortamda deneyimleyebilmektir.",
+      "body2": "Yeterli seviyeye gelen öğrencilerimizi gönüllülük esasına göre düğünlerde ve Türk kültür etkinliklerinde gösterilere katılmaları için teşvik ediyoruz.",
+      "body3": "Gösteri için belirli bir seviyenin oluşması önemlidir. En az üç oyunu iyi oynayabilen öğrenciler için gösteri öncesi prova yapılır.",
+      "body4": "Gösteriye katılmak zorunlu değildir. Ancak sahne deneyiminin öğrenciler için çok farklı ve değerli bir deneyim olduğuna inanıyoruz."
+    },
+    "pastEvents": {
+      "heading": "Katıldığımız Etkinliklerden Örnekler",
+      "items": ["Türk Başkonsolosluğu etkinlikleri", "Türk Büyükelçiliği etkinlikleri", "19 Mayıs etkinlikleri", "Türk yemekleri ve kültürü temalı organizasyonlar", "Düğünler"]
+    },
+    "wedding": {
+      "heading": "Düğün Gösterileri",
+      "body": "En çok gösteri talebi düğünlerden geliyor. Düğününüzde zeybek performansı görmek istiyorsanız bizimle iletişime geçebilirsiniz.",
+      "cta": "Düğün Gösterisi İçin Bilgi Al"
+    },
+    "social": {
+      "heading": "Sosyal Etkinlikler",
+      "body": "Zeybek Academy yalnızca derslerden ibaret değil. Topluluğumuzu güçlendirmek için piknik, kahvaltı, akşam yemeği ve benzeri sosyal etkinlikler de düzenliyoruz."
+    },
+    "future": {
+      "heading": "Gelecek Planlarımız",
+      "body": "Sayılarımız ve topluluğumuz büyüdükçe kendi etkinliklerimizi düzenlemek, zeybek workshopları yapmak ve Türk kültürünü tanıtan etkinlikler gerçekleştirmek istiyoruz."
+    }
+  },
+  "privateLessons": {
+    "eyebrow": "Size Özel",
+    "title": "Özel Dersler",
+    "couple": {
+      "heading": "Gelin & Damat İçin Özel Zeybek Dersi",
+      "body1": "Düğününüzde birlikte zeybek oynamak istiyorsanız, size özel derslerle hazırlanabilirsiniz.",
+      "body2": "Daha önce dans deneyiminiz olması gerekmez. Dersler çiftin seviyesine ve seçilen oyuna göre planlanabilir.",
+      "note": "Türkçe bilmeyen gelin ve damatlar için İngilizce özel ders de verebiliyoruz.",
+      "cta": "Gelin & Damat Dersi İçin İletişime Geç"
+    },
+    "individual": {
+      "heading": "Özel Zeybek Dersi",
+      "body": "Bireysel veya özel grup olarak zeybek öğrenmek, belirli bir oyuna odaklanmak veya mevcut seviyenizi geliştirmek isteyenler için özel ders sunuyoruz.",
+      "cta": "Özel Ders Hakkında Bilgi Al"
+    },
+    "show": {
+      "heading": "Düğün Gösterisi",
+      "body": "Düğününüzde Zeybek Academy'nin sahne almasını istiyorsanız talebinizi bize iletebilirsiniz.",
+      "cta": "Gösteri Talebi Oluştur"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Galeri",
+    "title": "Galeri",
+    "lessons": { "heading": "Dersler", "desc": "Derslerden gerçek anlar, öğrenme süreci ve birlikte oynadığımız oyunlar." },
+    "performances": { "heading": "Gösteriler", "desc": "Düğünlerden, kültür etkinliklerinden ve sahne deneyimlerimizden görüntüler." },
+    "events": { "heading": "Etkinlikler", "desc": "Piknik, kahvaltı, akşam yemeği ve diğer topluluk buluşmaları." },
+    "video": { "heading": "Video", "desc": "YouTube kanalımızdaki zeybek videolarını keşfedin.", "cta": "YouTube Kanalımız" },
+    "comingSoon": "Fotoğraflar yakında eklenecektir."
+  },
+  "contact": {
+    "eyebrow": "Bize Ulaşın",
+    "title": "İletişim",
+    "heading": "Bizimle İletişime Geçin",
+    "body": "Derslere katılmak, özel ders almak, düğün gösterisi hakkında bilgi almak veya Zeybek Academy hakkında soru sormak için bize ulaşabilirsiniz.",
+    "emailLabel": "E-posta",
+    "email": "info@zeybekacademy.nl",
+    "socialLabel": "Sosyal Medya",
+    "whatsapp": {
+      "heading": "WhatsApp",
+      "body": "Hızlı bilgi almak için WhatsApp üzerinden de ulaşabilirsiniz.",
+      "number": "Numara yakında eklenecek"
+    },
+    "form": {
+      "heading": "Mesaj Gönderin",
+      "name": "Ad Soyad",
+      "namePlaceholder": "Adınız ve soyadınız",
+      "email": "E-posta",
+      "emailPlaceholder": "ornek@email.com",
+      "phone": "Telefon / WhatsApp",
+      "phonePlaceholder": "+31 ...",
+      "service": "İlgilenilen Hizmet",
+      "servicePlaceholder": "Seçiniz",
+      "serviceOptions": {
+        "weekly": "Haftalık ders",
+        "private": "Özel ders",
+        "couple": "Gelin-damat dersi",
+        "wedding": "Düğün gösterisi",
+        "other": "Diğer"
+      },
+      "message": "Mesaj",
+      "messagePlaceholder": "Mesajınızı buraya yazın...",
+      "submit": "Mesaj Gönder",
+      "sending": "Gönderiliyor...",
+      "success": "Mesajınız alındı! En kısa sürede sizinle iletişime geçeceğiz.",
+      "error": "Bir hata oluştu. Lütfen tekrar deneyin veya doğrudan e-posta gönderin."
+    }
+  },
+  "faq": {
+    "eyebrow": "Sorularınız mı var?",
+    "title": "Sık Sorulan Sorular",
+    "heading": "Sık Sorulan Sorular",
+    "items": [
+      { "q": "Daha önce hiç dans etmedim. Katılabilir miyim?", "a": "Evet. Daha önce dans deneyimi gerekmiyor." },
+      { "q": "İlk ders ücretsiz mi?", "a": "Evet. Yeni kayıt olacak kişilerin ilk dersi ücretsizdir." },
+      { "q": "Yılın ortasında başlayabilir miyim?", "a": "Evet. Yeni başlayanlar yılın herhangi bir döneminde katılabilir." },
+      { "q": "Dersler hangi gün ve saatte?", "a": "Her Salı 19:30–21:30." },
+      { "q": "Dersler ne kadar sürüyor?", "a": "İki adet 50 dakikalık ders arka arkaya yapılır." },
+      { "q": "Başlangıç ve ileri seviye grupları var mı?", "a": "Şu anda seviye ayrımı yok. Herkes birlikte öğreniyor ve dersler orta seviyede ilerliyor." },
+      { "q": "Türkçe bilmiyorum. Katılabilir miyim?", "a": "Evet. Grup derslerinde gerektiğinde İngilizce kullanılabilir; özel dersler İngilizce verilebilir." },
+      { "q": "Başka halk oyunları da öğretiyor musunuz?", "a": "Hayır. Derslerimiz yalnızca zeybek oyunları üzerinedir." },
+      { "q": "Kadınlar erkek zeybeği oynayabilir mi?", "a": "Evet. Repertuarımızdaki erkek zeybeklerini kadın ve erkek öğrenciler birlikte oynayabilir." },
+      { "q": "Gösterilere katılmak zorunlu mu?", "a": "Hayır. Gösteriler tamamen gönüllüdür." },
+      { "q": "Gösteriye katılmak için hangi seviyede olmak gerekir?", "a": "En az üç oyunu iyi seviyede oynayabilmek ve gösteriye katılmak istemek gerekir. Gösteri öncesinde prova yapılır." },
+      { "q": "Düğün için zeybek öğrenebilir miyiz?", "a": "Evet. Gelin ve damatlar için özel ders veriyoruz." },
+      { "q": "Düğünümüzde Zeybek Academy gösteri yapabilir mi?", "a": "Evet. Düğün gösterisi için bizimle iletişime geçebilirsiniz." },
+      { "q": "Dersler nerede?", "a": "Amsterdam'da, Westerpark'a yakın Zeybek Academy lokasyonunda." },
+      { "q": "Ders ücretleri nedir?", "a": "Ders ücretleri web sitesinde yayınlanmamaktadır. Güncel bilgi için iletişime geçebilirsiniz." },
+      { "q": "Kaç yaşından itibaren katılabilirim?", "a": "10 yaş altı için yaş sınırı bulunmaktadır." }
+    ],
+    "stillQuestions": "Başka sorularınız mı var?",
+    "contactCta": "İletişime Geçin"
+  },
+  "location": {
+    "eyebrow": "Lokasyon",
+    "title": "Lokasyon",
+    "heading": "Zeybek Academy Lokasyonu",
+    "body1": "Derslerimiz Amsterdam'da, Westerpark'a yakın bir stüdyoda gerçekleştiriliyor.",
+    "body2": "Salon sıcak ve samimi bir ortam sunuyor. Ahşap zemin ve ayna bulunuyor. Yaklaşık 10 kişinin rahatlıkla ders yapabileceği bir alan.",
+    "body3": "Ders aralarında ön kapıya veya arka bahçeye çıkıp sosyalleşmek mümkün.",
+    "schedule": "Her Salı · 19:30–21:30",
+    "cta": "Google Maps'te Aç",
+    "mapsUrl": "https://maps.app.goo.gl/MZY1UWAAw5XJbWVa8",
+    "note": "İşletmenin resmi kayıt adresi Utrecht'tedir. Yukarıdaki adres ders lokasyonudur."
+  },
+  "common": {
+    "learnMore": "Daha Fazla Bilgi",
+    "contactUs": "İletişime Geç",
+    "backToHome": "Ana Sayfaya Dön",
+    "firstLessonFree": "İlk Ders Ücretsiz",
+    "discover": "Keşfet",
+    "readMore": "Devamını Oku"
+  }
+}

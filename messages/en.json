@@ -1,0 +1,488 @@
+{
+  "nav": {
+    "home": "Home",
+    "zeybek": "Zeybek",
+    "academy": "Academy",
+    "lessons": "Lessons",
+    "events": "Performances & Events",
+    "privateLessons": "Private Lessons",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "zeybekMenu": {
+      "hub": "Explore Zeybek",
+      "what": "What is Zeybek?",
+      "history": "History of Zeybek",
+      "culture": "Zeybek Culture",
+      "dance": "Zeybek Dance",
+      "posture": "Zeybek Posture",
+      "music": "Zeybek Music",
+      "dances": "Zeybek Dances & Regions",
+      "repertoire": "Our Repertoire"
+    }
+  },
+  "footer": {
+    "tagline": "We learn, preserve, and dance zeybek together in Amsterdam.",
+    "slogan": "Zeybek is not just a dance. A posture. A character. A culture.",
+    "pages": "Pages",
+    "contact": {
+      "email": "info@zeybekacademy.nl"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "youtube": "YouTube"
+    },
+    "links": {
+      "title": "Links",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "cookies": "Cookie Policy"
+    },
+    "legal": {
+      "company": "Zeybek Academy",
+      "type": "Eenmanszaak",
+      "kvk": "KvK: [to be added]",
+      "address": "Oudenoord 432, 3513 EX Utrecht"
+    },
+    "rights": "© {year} Zeybek Academy. All rights reserved."
+  },
+  "metadata": {
+    "home": {
+      "title": "Zeybek Academy Amsterdam | Zeybek Dance & Culture",
+      "description": "Learn zeybek culture in Amsterdam, discover traditional zeybek dances with correct technique, and dance together. First lesson free."
+    },
+    "about": {
+      "title": "About Us | Zeybek Academy Amsterdam",
+      "description": "The founding story, mission, and vision of Zeybek Academy."
+    },
+    "lessons": {
+      "title": "Zeybek Lessons Amsterdam | Zeybek Academy",
+      "description": "Zeybek lessons in Amsterdam. Every Tuesday 19:30–21:30. No level requirement, beginners welcome. First lesson free."
+    },
+    "events": {
+      "title": "Performances & Events | Zeybek Academy Amsterdam",
+      "description": "Zeybek lessons or Zeybek Academy performances for your wedding. Turkish cultural events and social gatherings."
+    },
+    "privateLessons": {
+      "title": "Private Zeybek Lessons Amsterdam | Zeybek Academy",
+      "description": "Individual, group, and bride & groom zeybek lessons in Amsterdam."
+    },
+    "gallery": {
+      "title": "Gallery | Zeybek Academy Amsterdam",
+      "description": "Photos from Zeybek Academy lessons, performances, and events."
+    },
+    "contact": {
+      "title": "Contact | Zeybek Academy Amsterdam",
+      "description": "Get in touch with Zeybek Academy. For lesson registration, private lessons, and wedding performances."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions | Zeybek Academy Amsterdam",
+      "description": "Answers to frequently asked questions about Zeybek Academy."
+    },
+    "zeybek": {
+      "title": "What is Zeybek? History, Culture & Dance | Zeybek Academy",
+      "description": "Discover the history, culture, posture, music and dances of zeybek."
+    },
+    "what": {
+      "title": "What is Zeybek? | Zeybek Academy",
+      "description": "Zeybek is a traditional folk dance and cultural tradition strongly associated with Western Anatolia and Aegean culture."
+    },
+    "history": {
+      "title": "History of Zeybek | Zeybek Academy",
+      "description": "The historical development of zeybek, intertwined with the social and cultural history of Western Anatolia."
+    },
+    "culture": {
+      "title": "Zeybek Culture | Zeybek Academy",
+      "description": "The rich world of zeybek culture shaped by music, costume, posture, and regional narratives."
+    },
+    "dance": {
+      "title": "Zeybek Dance | Zeybek Academy",
+      "description": "The unique posture, figures, and learning approach of zeybek dance."
+    },
+    "posture": {
+      "title": "Zeybek Posture | Zeybek Academy",
+      "description": "The posture and body use that carries the character and confidence of zeybek."
+    },
+    "music": {
+      "title": "Zeybek Music | Zeybek Academy",
+      "description": "The rhythmic structure, musical character, and regional characteristics of zeybek dances."
+    },
+    "dances": {
+      "title": "Zeybek Dances & Regions | Zeybek Academy",
+      "description": "The diversity and cultural richness of zeybek dances from different regions."
+    },
+    "repertoire": {
+      "title": "Our Repertoire | Zeybek Academy",
+      "description": "Zeybek Academy's extensive zeybek repertoire: dance names, regions, characters, and levels."
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Amsterdam",
+      "title": "ZEYBEK ACADEMY",
+      "subtitle": "We learn, preserve, and dance zeybek together in Amsterdam.",
+      "cta1": "Explore Zeybek",
+      "cta2": "Join Lessons"
+    },
+    "intro": {
+      "text": "Zeybek Academy is an academy founded for those who want to learn, preserve, and dance the zeybek dance and culture correctly in Amsterdam."
+    },
+    "notDance": {
+      "heading": "Zeybek is not just a dance",
+      "subheading": "A posture. A character. A culture.",
+      "body1": "For us, zeybek is not just a dance consisting of a few figures. What makes it special is its unique manner, posture, music, movements, and the cultural heritage it carries.",
+      "body2": "In our lessons, while learning traditional figures correctly, we also discover the posture of zeybek and the culture behind it. Because dancing zeybek well is not just knowing the steps, but being able to understand the character of zeybek.",
+      "cta": "Explore zeybek culture"
+    },
+    "whyLearn": {
+      "heading": "Why should you learn zeybek?",
+      "items": {
+        "play": { "title": "Dance zeybek", "desc": "Learn unique dances and figures to be able to dance zeybek." },
+        "confidence": { "title": "Build confidence", "desc": "Develop self-confidence through zeybek's strong posture and stage experience." },
+        "posture": { "title": "Posture & body control", "desc": "Develop balance, coordination, body awareness, and a strong posture." },
+        "culture": { "title": "Connect with Turkish culture", "desc": "Experience and learn an important part of Turkish culture while far from Turkiye." },
+        "social": { "title": "Build a social circle", "desc": "Become part of the community formed by lessons and events." },
+        "hobby": { "title": "Discover a new hobby", "desc": "Discover a new pursuit with cultural, social, and physical dimensions." }
+      }
+    },
+    "lessons": {
+      "heading": "Our Lessons",
+      "subheading": "Every Tuesday we dance zeybek in Amsterdam.",
+      "schedule": "Tuesday 19:30–21:30",
+      "duration": "2 × 50-minute lessons",
+      "noLevel": "No level distinction",
+      "anyTime": "Beginners can join at any time of year",
+      "noExperience": "No prior dance experience required",
+      "onlyZeybek": "Lessons are exclusively on zeybek dances",
+      "language": "Group lessons in Turkish; English when needed",
+      "free": "First lesson free",
+      "season": "Season: Early October – End of May",
+      "cta": "I Want to Try My First Lesson"
+    },
+    "culture": {
+      "heading": "Explore zeybek culture",
+      "body": "Understanding zeybek means not just learning the dances, but also getting to know its history, culture, music, posture, and regional characters.",
+      "cta": "Explore Zeybek"
+    },
+    "community": {
+      "heading": "More than a lesson group",
+      "body1": "We learn together in lessons, chat during breaks, and also meet outside of lessons. We strengthen our community with social events like picnics, brunches, and dinners.",
+      "body2": "Meeting new people and spending time together while keeping homeland culture alive far from Turkiye is an important part of the Zeybek Academy experience.",
+      "cta": "Explore Our Community"
+    },
+    "performances": {
+      "heading": "Zeybek on stage",
+      "body1": "We encourage students who have reached a good level to participate in performances at weddings and Turkish cultural events on a voluntary basis.",
+      "body2": "A rehearsal is held before the performance for students who can dance at least three dances well. Participation in performances is not mandatory; however, we believe stage experience is a very different and valuable experience for students.",
+      "pastEvents": "So far we have participated in Turkish Consulate and Embassy events, May 19th events, Turkish culture/food events, and many weddings.",
+      "cta": "Explore Our Performances"
+    },
+    "privateLessons": {
+      "heading": "Private lessons",
+      "couple": "Private zeybek lesson for bride & groom",
+      "individual": "Private zeybek lesson",
+      "show": "Wedding performance",
+      "note": "We can also provide private lessons in English for couples who don't speak Turkish.",
+      "cta": "Get Info on Private Lessons"
+    },
+    "story": {
+      "heading": "Our Story",
+      "quote": "Zeybek has always been part of my life. Being from Aydın, zeybek was a natural part of my life from childhood. Seeing and hearing zeybek at weddings, parks, special events – even sometimes at the market – was an ordinary thing in everyday life.\n\nI have been professionally learning and dancing zeybek since 2017. I started teaching in 2020. After moving to Amsterdam in 2022, I asked myself: 'Why shouldn't I dance zeybek here too, why shouldn't I teach it?'\n\nI started giving the first zeybek lessons in Amsterdam in 2023. Zeybek Academy emerged as the natural continuation of this process.\n\nThe aim is actually very simple: I love dancing zeybek very much. I want to teach it to people who want to learn and dance together with everyone.\n\nBecause for me, zeybek is much more than a dance. A posture, a personality, a character.",
+      "cta": "Get to Know Our Story Better"
+    },
+    "finalCta": {
+      "heading": "Have you never tried dancing zeybek?",
+      "body": "You don't need to know how to dance before. Come, let's discover zeybek together in our first lesson.",
+      "cta1": "First Lesson Free – I Want to Join",
+      "cta2": "Contact Us for Private Lessons or Performances"
+    }
+  },
+  "zeybek": {
+    "hub": {
+      "heading": "Ready to discover zeybek?",
+      "body": "Zeybek is a powerful tradition combining dance, music, posture, manner, and cultural memory. In this section, you can discover what zeybek is, its history, culture, dance, and its characters in different regions."
+    },
+    "what": {
+      "eyebrow": "About Zeybek",
+      "title": "What is Zeybek?",
+      "body1": "Zeybek is a traditional folk dance and cultural tradition strongly associated with Western Anatolia and Aegean culture.",
+      "body2": "Zeybek is not limited to a single dance or single sequence of figures. It exists in various forms in different regions, different dances, and different musical characters.",
+      "body3": "At Zeybek Academy, we approach zeybek not just as figures, but together with the dance's manner, posture, music, and cultural background.",
+      "cta": "Join Lessons"
+    },
+    "history": {
+      "eyebrow": "History",
+      "title": "History of Zeybek",
+      "body1": "The history of zeybek is a multi-layered subject intertwined with the social and cultural history of Western Anatolia.",
+      "body2": "How the concept of zeybek was used throughout history, the social position of zeybek practitioners, and how zeybek culture transformed over time have been addressed in different ways in different sources.",
+      "body3": "For this reason, rather than presenting a single story as absolute truth, we aim to convey the historical development of zeybek in an understandable way by drawing on reliable historical sources."
+    },
+    "culture": {
+      "eyebrow": "Culture",
+      "title": "Zeybek Culture",
+      "body1": "Zeybek culture is not just about dancing.",
+      "body2": "Music, costume, posture, manner, regional narratives, collective memory, and the stories carried by the dances make up different parts of zeybek culture.",
+      "body3": "For us, keeping the culture alive does not mean freezing the past as it is; it means being able to pass traditional knowledge correctly to new generations and people outside Turkiye.",
+      "approachHeading": "Zeybek Academy Approach",
+      "approachBody": "While teaching figures in lessons, alongside 'How is this movement done?' we also care about 'What is the character of this movement, how is it danced, and what cultural context does it come from?'"
+    },
+    "dance": {
+      "eyebrow": "Dance",
+      "title": "Zeybek Dance",
+      "body1": "Zeybek dance is a powerful form of expression with its unique posture, arm and body use, steps, rhythmic structure, and dance characters.",
+      "body2": "Understanding the manner, the relationship with music, and body control is as important as learning the figures correctly.",
+      "body3": "At Zeybek Academy, female and male students can dance the male zeybeks in our repertoire together.",
+      "approachHeading": "Our Learning Approach",
+      "approachItems": ["Correct learning of figures", "Posture and body control", "Harmony with music", "Understanding the character of the dance", "Learning without departing from tradition"]
+    },
+    "posture": {
+      "eyebrow": "Posture",
+      "title": "Zeybek Posture",
+      "body1": "Zeybek posture is one of the most distinctive elements of the dance.",
+      "body2": "Posture is not just the shape the body takes. It is a form of expression that carries the character, confidence, and manner of zeybek.",
+      "body3": "In our lessons, alongside doing a figure correctly, we aim to be able to carry that figure in a way appropriate to the character of zeybek.",
+      "body4": "We believe that the development of body awareness and control while learning zeybek can also contribute to students' posture in daily life."
+    },
+    "music": {
+      "eyebrow": "Music",
+      "title": "Zeybek Music",
+      "body1": "One of the important ways to understand zeybek dances is to understand their music.",
+      "body2": "The rhythm, tempo, melody, and the relationship of instruments with the character of the dance affect how the dance will be felt and danced.",
+      "body3": "This section will be expanded over time with content introducing the musical characters, rhythms, and regional characteristics of different zeybek dances."
+    },
+    "dances": {
+      "eyebrow": "Regions",
+      "title": "Zeybek Dances & Regions",
+      "body1": "Zeybek repertoire is not uniform.",
+      "body2": "Tempo, figures, manner, music, and performance styles can vary in different regions and dances. These differences are an important part of the richness of zeybek culture.",
+      "body3": "In this section, we will introduce the dances in our repertoire together with their region, character, and brief story as much as possible."
+    },
+    "repertoire": {
+      "eyebrow": "Repertoire",
+      "title": "Our Repertoire",
+      "body": "One of the strongest features of Zeybek Academy is its extensive and growing repertoire. We aim to present the dances in our repertoire not just by name, but with their region, character, level, and video examples where possible.",
+      "tableHeaders": {
+        "name": "Dance Name",
+        "region": "Region",
+        "character": "Character",
+        "level": "Level",
+        "description": "Brief Description",
+        "video": "Video",
+        "season": "Season"
+      },
+      "comingSoon": "The full repertoire list will be added soon."
+    }
+  },
+  "about": {
+    "eyebrow": "Who Are We?",
+    "title": "About Us",
+    "whoWeAre": {
+      "heading": "Who are we?",
+      "body1": "Zeybek Academy is a zeybek academy operating in Amsterdam with the aim of keeping zeybek culture alive and teaching it correctly.",
+      "body2": "Our educational approach is based on sharing zeybek's manner, posture, music, culture, and story beyond just the figures."
+    },
+    "story": {
+      "heading": "Our Founding Story",
+      "body1": "Zeybek has always been part of my life. Being from Aydın, I grew up intertwined with zeybek since childhood.",
+      "body2": "In 2017, I started professionally learning and dancing zeybek. I started teaching in 2020. When I moved to Amsterdam in 2022, the idea of dancing and teaching zeybek here too was born. I started the first lessons in 2023.",
+      "body3": "Zeybek Academy is the natural continuation of this journey and love of zeybek."
+    },
+    "why": {
+      "heading": "Why our own academy?",
+      "body": "Because we love dancing zeybek very much and we want to share it with people who want to learn and dance together with everyone."
+    },
+    "vision": {
+      "heading": "Our Vision",
+      "body": "To contribute to the correct, respectful, and powerful recognition of zeybek culture outside Turkiye and to try to bring zeybek dance to the place it deserves internationally."
+    },
+    "cta": "Get in Touch"
+  },
+  "lessons": {
+    "eyebrow": "Every Tuesday · Amsterdam",
+    "title": "Weekly Lessons",
+    "heading": "Weekly Group Lessons",
+    "subheading": "Every Tuesday · 19:30–21:30 · Amsterdam",
+    "twoLessons": "Two consecutive 50-minute lessons.",
+    "details": {
+      "schedule": "Tuesday 19:30–21:30",
+      "duration": "2 × 50 minutes",
+      "free": "First lesson free",
+      "season": "October – May"
+    },
+    "level": {
+      "heading": "Lesson Level",
+      "body": "We currently don't have separate groups for beginner, intermediate, and advanced. Everyone learns new dances together and lessons progress at an intermediate level."
+    },
+    "beginners": {
+      "heading": "Beginners",
+      "body": "A beginner can join at any time of year. No prior dance experience or knowledge of other folk dances is required."
+    },
+    "language": {
+      "heading": "Lesson Language",
+      "body": "Group lessons are currently conducted in Turkish. When a non-Turkish speaking student joins, the lesson can be translated to English as needed."
+    },
+    "flow": {
+      "heading": "Lesson Flow",
+      "steps": ["Warm-up run-through of previously learned dances", "Brief recap of the previous week's lesson", "Introduction of the new figure", "Application of the new figure to the dance and repetition"]
+    },
+    "season": {
+      "heading": "Season",
+      "body": "Lessons start in early October and end at the end of May."
+    },
+    "firstLesson": {
+      "heading": "First Lesson",
+      "body": "The first lesson for new registrations is a trial lesson and is free.",
+      "cta": "Contact Us for the First Lesson"
+    },
+    "forWhom": {
+      "heading": "Who is it for?",
+      "items": ["Those who have never danced before", "Those who want to learn zeybek", "Those interested in Turkish culture", "Those who want to strengthen their cultural connection while far from Turkiye", "Those looking for a new social circle and hobby"]
+    },
+    "age": {
+      "heading": "Age Limit",
+      "body": "There is an age limit for those under 10 years old."
+    }
+  },
+  "performances": {
+    "eyebrow": "Performances & Events",
+    "title": "Performances & Events",
+    "performances": {
+      "heading": "Performances",
+      "body1": "An important part of learning zeybek is being able to experience what you've learned in a real setting.",
+      "body2": "We encourage students who have reached a sufficient level to participate in performances at weddings and Turkish cultural events on a voluntary basis.",
+      "body3": "It is important to reach a certain level for a performance. A rehearsal is held for students who can dance at least three dances well.",
+      "body4": "Participation in performances is not mandatory. However, we believe stage experience is a very different and valuable experience for students."
+    },
+    "pastEvents": {
+      "heading": "Examples of Events We've Participated In",
+      "items": ["Turkish Consulate events", "Turkish Embassy events", "May 19th events", "Turkish food and culture themed events", "Weddings"]
+    },
+    "wedding": {
+      "heading": "Wedding Performances",
+      "body": "Most performance requests come from weddings. If you want to see a zeybek performance at your wedding, you can contact us.",
+      "cta": "Get Info on Wedding Performance"
+    },
+    "social": {
+      "heading": "Social Events",
+      "body": "Zeybek Academy is not just about lessons. We also organize social events like picnics, brunches, and dinners to strengthen our community."
+    },
+    "future": {
+      "heading": "Our Future Plans",
+      "body": "As our numbers and community grow, we want to organize our own events, hold zeybek workshops, and organize events that promote Turkish culture."
+    }
+  },
+  "privateLessons": {
+    "eyebrow": "Just for You",
+    "title": "Private Lessons",
+    "couple": {
+      "heading": "Private Zeybek Lesson for Bride & Groom",
+      "body1": "If you want to dance zeybek together at your wedding, you can prepare with private lessons tailored to you.",
+      "body2": "Prior dance experience is not required. Lessons can be planned according to the couple's level and the chosen dance.",
+      "note": "We can also provide private lessons in English for brides and grooms who don't speak Turkish.",
+      "cta": "Contact Us for Bride & Groom Lesson"
+    },
+    "individual": {
+      "heading": "Private Zeybek Lesson",
+      "body": "We offer private lessons for those who want to learn zeybek individually or in a private group, focus on a specific dance, or improve their current level.",
+      "cta": "Get Info on Private Lessons"
+    },
+    "show": {
+      "heading": "Wedding Performance",
+      "body": "If you want Zeybek Academy to perform at your wedding, you can send us your request.",
+      "cta": "Create Performance Request"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "Gallery",
+    "lessons": { "heading": "Lessons", "desc": "Real moments from lessons, the learning process, and the dances we play together." },
+    "performances": { "heading": "Performances", "desc": "Images from weddings, cultural events, and our stage experiences." },
+    "events": { "heading": "Events", "desc": "Picnics, brunches, dinners, and other community gatherings." },
+    "video": { "heading": "Video", "desc": "Discover zeybek videos on our YouTube channel.", "cta": "Our YouTube Channel" },
+    "comingSoon": "Photos will be added soon."
+  },
+  "contact": {
+    "eyebrow": "Reach Us",
+    "title": "Contact",
+    "heading": "Get in Touch",
+    "body": "You can reach us to join lessons, get private lessons, get information about wedding performances, or ask questions about Zeybek Academy.",
+    "emailLabel": "Email",
+    "email": "info@zeybekacademy.nl",
+    "socialLabel": "Social Media",
+    "whatsapp": {
+      "heading": "WhatsApp",
+      "body": "You can also reach us via WhatsApp for quick information.",
+      "number": "Number to be added soon"
+    },
+    "form": {
+      "heading": "Send a Message",
+      "name": "Full Name",
+      "namePlaceholder": "Your name and surname",
+      "email": "Email",
+      "emailPlaceholder": "example@email.com",
+      "phone": "Phone / WhatsApp",
+      "phonePlaceholder": "+31 ...",
+      "service": "Service of Interest",
+      "servicePlaceholder": "Select",
+      "serviceOptions": {
+        "weekly": "Weekly lesson",
+        "private": "Private lesson",
+        "couple": "Bride & groom lesson",
+        "wedding": "Wedding performance",
+        "other": "Other"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Your message has been received! We will get back to you as soon as possible.",
+      "error": "An error occurred. Please try again or send an email directly."
+    }
+  },
+  "faq": {
+    "eyebrow": "Have questions?",
+    "title": "Frequently Asked Questions",
+    "heading": "Frequently Asked Questions",
+    "items": [
+      { "q": "I have never danced before. Can I join?", "a": "Yes. No prior dance experience is required." },
+      { "q": "Is the first lesson free?", "a": "Yes. The first lesson for new registrations is free." },
+      { "q": "Can I start in the middle of the year?", "a": "Yes. Beginners can join at any time of year." },
+      { "q": "What day and time are the lessons?", "a": "Every Tuesday 19:30–21:30." },
+      { "q": "How long are the lessons?", "a": "Two consecutive 50-minute lessons." },
+      { "q": "Are there beginner and advanced level groups?", "a": "Currently there is no level distinction. Everyone learns together and lessons progress at an intermediate level." },
+      { "q": "I don't speak Turkish. Can I join?", "a": "Yes. English can be used as needed in group lessons; private lessons can be given in English." },
+      { "q": "Do you teach other folk dances?", "a": "No. Our lessons are exclusively on zeybek dances." },
+      { "q": "Can women dance male zeybek?", "a": "Yes. Female and male students can dance the male zeybeks in our repertoire together." },
+      { "q": "Is participation in performances mandatory?", "a": "No. Performances are entirely voluntary." },
+      { "q": "What level do I need to participate in a performance?", "a": "You need to be able to dance at least three dances well and want to participate. A rehearsal is held before the performance." },
+      { "q": "Can we learn zeybek for our wedding?", "a": "Yes. We provide private lessons for brides and grooms." },
+      { "q": "Can Zeybek Academy perform at our wedding?", "a": "Yes. You can contact us for a wedding performance." },
+      { "q": "Where are the lessons?", "a": "In Amsterdam, near Westerpark, at the Zeybek Academy location." },
+      { "q": "What are the lesson fees?", "a": "Lesson fees are not published on the website. Please contact us for current information." },
+      { "q": "From what age can I join?", "a": "There is an age limit for those under 10 years old." }
+    ],
+    "stillQuestions": "Still have questions?",
+    "contactCta": "Get in Touch"
+  },
+  "location": {
+    "eyebrow": "Location",
+    "title": "Location",
+    "heading": "Zeybek Academy Location",
+    "body1": "Our lessons take place in a studio near Westerpark in Amsterdam.",
+    "body2": "The studio offers a warm and welcoming environment. It has a wooden floor and mirror. A space where approximately 10 people can comfortably have lessons.",
+    "body3": "It is possible to go to the front door or back garden to socialize during lesson breaks.",
+    "schedule": "Every Tuesday · 19:30–21:30",
+    "cta": "Open in Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/MZY1UWAAw5XJbWVa8",
+    "note": "The official registered address of the business is in Utrecht. The address above is the lesson location."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "backToHome": "Back to Home",
+    "firstLessonFree": "First Lesson Free",
+    "discover": "Discover",
+    "readMore": "Read More"
+  }
+}
