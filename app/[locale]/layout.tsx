@@ -8,6 +8,7 @@ import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
 import { SchemaOrg } from '@/components/seo/SchemaOrg';
 import '@/app/globals.css';
+import { setRequestLocale } from 'next-intl/server';
 
 const playfair = Playfair_Display({
   subsets: ['latin', 'latin-ext'],
@@ -90,6 +91,8 @@ export default async function LocaleLayout({
   if (!(routing.locales as readonly string[]).includes(locale)) {
     notFound();
   }
+
+  setRequestLocale(locale);
 
   const messages = await getMessages();
 
