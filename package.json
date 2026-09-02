@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "npx next build . --no-lint",
+    "build": "npx next build --webpack",
     "start": "next start",
     "lint": "next lint"
   },
