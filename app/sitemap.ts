@@ -1,5 +1,7 @@
 import { MetadataRoute } from 'next';
 
+export const dynamic = "force-static"/export 
+
 const BASE_URL = 'https://zeybekacademy.nl';
 
 const routes = [
