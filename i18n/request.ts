@@ -8,8 +8,17 @@ export default getRequestConfig(async ({ requestLocale }) => {
     locale = routing.defaultLocale;
   }
 
+  const messages = {
+    tr: () => import('../messages/tr.json'),
+    en: () => import('../messages/en.json'),
+    nl: () => import('../messages/nl.json'),
+  };
+
+  const loadMessages = messages[locale as keyof typeof messages] || messages.tr;
+  const currentMessages = await loadMessages();
+
   return {
     locale,
-    messages: (await import(`../messages/${locale}.json`)).default,
+    messages: currentMessages.default,
   };
 });
