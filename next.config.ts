@@ -2,7 +2,7 @@ import type { NextConfig } from 'next';
 import path from 'path';
 import createNextIntlPlugin from 'next-intl/plugin';
 
-const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
+const withNextIntl = createNextIntlPlugin(path.join(__dirname, 'i18n/request.ts'));
 
 const securityHeaders = [
   { key: "X-Content-Type-Options", value: "nosniff" },
