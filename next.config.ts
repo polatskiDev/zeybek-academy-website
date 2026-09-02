@@ -33,7 +33,6 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
-  output: "export",
   outputFileTracingRoot: path.resolve(__dirname),
   eslint: {
     ignoreDuringBuilds: true,
