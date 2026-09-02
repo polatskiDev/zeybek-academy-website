@@ -1,5 +1,6 @@
 import { getTranslations } from 'next-intl/server';
 import { CTAButton } from '@/components/shared/CTAButton';
+import Image from 'next/image';
 
 export async function Hero() {
   const t = await getTranslations('home.hero');
@@ -16,9 +17,11 @@ export async function Hero() {
       {/* --- CIRCULAR MEDIA ELEMENTS (Absolute Positioning) --- */}
       {/* Left Circle - Image */}
       <div className="hidden lg:block absolute left-12 top-1/2 -translate-y-1/2 w-48 h-48 rounded-full overflow-hidden border-4 border-accent/30 shadow-2xl animate-pulse">
-        <img 
+        <Image
           src="/images/ozkanorhankostumlu.jpg" 
           alt="Hero visual left" 
+          fill
+          priority
           className="w-full h-full object-cover"
         />
       </div>
