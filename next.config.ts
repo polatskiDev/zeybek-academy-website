@@ -33,7 +33,7 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
-  output: 'export',
+
   basePath: '/zeybek-academy-website',
   assetPrefix: '/zeybek-academy-website/',
   outputFileTracingRoot: path.resolve(__dirname),
