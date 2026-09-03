@@ -34,8 +34,6 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
 
-  basePath: '/zeybek-academy-website',
-  assetPrefix: '/zeybek-academy-website/',
   outputFileTracingRoot: path.resolve(__dirname),
   eslint: {
     ignoreDuringBuilds: true,
