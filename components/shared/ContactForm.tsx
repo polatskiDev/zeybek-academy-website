@@ -7,13 +7,14 @@ export function ContactForm() {
   const t = useTranslations('contact.form');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
 
-  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     setStatus('loading');
 
-    const form = e.currentTarget;
+    const form = e.target;
+    const formData = new FormData(form);
     const body = new URLSearchParams(
-      Object.fromEntries(new FormData(form) as unknown as Iterable<[string, string]>)
+      Object.fromEntries(formData as unknown as Iterable<[string, string]>)
     ).toString();
 
     try {
