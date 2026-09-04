@@ -53,18 +53,9 @@ export function ContactForm() {
       name="contact"
       method="POST"
       data-netlify="true"
-      netlify-honeypot="bot-field"
       onSubmit={handleSubmit}
       className="space-y-6"
     >
-      {/* Netlify bot protection */}
-      <input type="hidden" name="form-name" value="contact" />
-      <p className="hidden">
-        <label>
-          Do not fill this out: <input name="bot-field" />
-        </label>
-      </p>
-
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
         <div>
           <label htmlFor="cf-name" className="block text-sm font-medium text-brand-text mb-2">

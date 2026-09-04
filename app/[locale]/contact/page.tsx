@@ -108,7 +108,7 @@ export default async function IletisimPage() {
               </h2>
               <ContactForm />
               {/* Hidden fallback form for Netlify's build-time crawler */}
-              <form name="contact" data-netlify="true" netlify-honeypot="bot-field" hidden>
+              <form name="contact" data-netlify="true" hidden>
                 <input type="hidden" name="form-name" value="contact" />
                 <input name="bot-field" />
                 <input type="text" name="name" />
