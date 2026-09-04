@@ -7,25 +7,29 @@ export function ContactForm() {
   const t = useTranslations('contact.form');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     setStatus('loading');
 
-    const form = e.target;
+    const form = e.currentTarget;
     const formData = new FormData(form);
-    const body = new URLSearchParams(
-      Object.fromEntries(formData as unknown as Iterable<[string, string]>)
-    ).toString();
+    const body = new URLSearchParams(formData as any).toString();
 
     try {
-      const res = await fetch('/', {
+      const response = await fetch('/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body,
+        body: body,
       });
-      setStatus(res.ok ? 'success' : 'error');
-      if (res.ok) form.reset();
-    } catch {
+
+      if (response.ok) {
+        setStatus('success');
+        form.reset();
+      } else {
+        setStatus('error');
+      }
+    } catch (error) {
+      console.error('Form submission error:', error);
       setStatus('error');
     }
   };
