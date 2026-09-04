@@ -33,3 +33,23 @@
     @apply text-brand-muted leading-relaxed mb-4 last:mb-0;
   }
 }
+
+@keyframes scroll-arrow {
+  0% {
+    transform: translateY(-6px);
+    opacity: 0.35;
+  }
+  50% {
+    transform: translateY(6px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-6px);
+    opacity: 0.35;
+  }
+}
+
+.animate-scroll-arrow {
+  animation: scroll-arrow 1.8s ease-in-out infinite;
+}
+

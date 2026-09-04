@@ -53,6 +53,23 @@ export function PageHero({
         )}
         <div className="mt-6 w-16 h-px bg-accent/60 mx-auto" />
       </div>
+
+      <div className="absolute bottom-6 left-1/2 -translate-x-1/2">
+        <div
+          className="w-24 h-24 bg-white animate-scroll-arrow"
+          style={{
+            WebkitMaskImage: "url('/images/icons/down-arrow-svgrepo-com.svg')",
+            maskImage: "url('/images/icons/down-arrow-svgrepo-com.svg')",
+            WebkitMaskRepeat: 'no-repeat',
+            maskRepeat: 'no-repeat',
+            WebkitMaskSize: 'contain',
+            maskSize: 'contain',
+            WebkitMaskPosition: 'center',
+            maskPosition: 'center',
+          }}
+          aria-hidden="true"
+        />
+      </div>
     </section>
   );
 }

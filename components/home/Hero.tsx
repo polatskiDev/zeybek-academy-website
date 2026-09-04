@@ -16,7 +16,7 @@ export async function Hero() {
 
       {/* --- CIRCULAR MEDIA ELEMENTS (Absolute Positioning) --- */}
       {/* Left Circle - Image */}
-      <div className="hidden lg:block absolute left-12 top-1/2 -translate-y-1/2 w-48 h-48 rounded-full overflow-hidden border-4 border-accent/30 shadow-2xl animate-pulse">
+      <div className="hidden lg:block absolute left-12 top-1/2 -translate-y-1/2 w-48 h-48 rounded-full overflow-hidden border-4 border-accent/30 shadow-2xl">
         <Image
           src="/images/ozkanorhankostumlu.jpg" 
           alt="Hero visual left" 
@@ -28,13 +28,12 @@ export async function Hero() {
 
       {/* Right Circle - Video */}
       <div className="hidden lg:block absolute right-12 top-1/2 -translate-y-1/2 w-56 h-56 rounded-full overflow-hidden border-4 border-accent/30 shadow-2xl">
-        <iframe 
-          className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[180%] h-[180%] pointer-events-none object-cover"
-          src="https://www.youtube.com/embed/0eQ3B9V5WcA?si=rV8oIa9Jp8mPkuWt&autoplay=1&mute=1&loop=1&playlist=0eQ3B9V5WcA" 
-          title="Harmandalı Zeybeği" 
-          frameBorder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-          referrerPolicy="strict-origin-when-cross-origin"
+        <Image
+          src="/images/9d44d6d9-f255-4537-bcd9-b0bdb2143dec.jpg" 
+          alt="Hero visual right" 
+          fill
+          priority
+          className="w-full h-full object-cover"
         />
       </div>
       {/* ---------------------------------------------------- */}
@@ -64,10 +63,21 @@ export async function Hero() {
         </div>
       </div>
 
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-white/40 z-10">
-        <svg className="w-5 h-5 animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 9l-7 7-7-7" />
-        </svg>
+      <div className="absolute bottom-6 left-1/2 -translate-x-1/2">
+        <div
+          className="w-12 h-12 bg-white animate-scroll-arrow"
+          style={{
+            WebkitMaskImage: "url('/images/icons/down-arrow-svgrepo-com.svg')",
+            maskImage: "url('/images/icons/down-arrow-svgrepo-com.svg')",
+            WebkitMaskRepeat: 'no-repeat',
+            maskRepeat: 'no-repeat',
+            WebkitMaskSize: 'contain',
+            maskSize: 'contain',
+            WebkitMaskPosition: 'center',
+            maskPosition: 'center',
+          }}
+          aria-hidden="true"
+        />
       </div>
     </section>
   );
