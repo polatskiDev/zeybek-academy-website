@@ -40,10 +40,10 @@ export function MobileMenu({ isOpen, onClose, mainLinks }: MobileMenuProps) {
           <Image
             src="/images/bgremoved_logo_zeybekacademy.png"
             alt="Zeybek Academy"
-            width={72}
-            height={72}
+            width={80}
+            height={80}
             priority
-            className="h-16 w-16 object-contain"
+            className="h-20 w-20 object-contain"
           />
         </Link>
         <button

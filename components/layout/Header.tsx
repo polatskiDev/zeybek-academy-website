@@ -47,10 +47,10 @@ export function Header() {
             <Image
               src="/images/bgremoved_logo_zeybekacademy.png"
               alt="Zeybek Academy"
-              width={72}
-              height={72}
+              width={96}
+              height={96}
               priority
-              className={`h-20 w-20 object-contain transition-all duration-300 ${
+              className={`h-24 w-24 object-contain transition-all duration-300 ${
                 scrolled ? '' : 'rounded-full bg-white/90 p-1'
               }`}
             />
