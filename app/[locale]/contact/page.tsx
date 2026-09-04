@@ -107,6 +107,22 @@ export default async function IletisimPage() {
                 {t('form.heading')}
               </h2>
               <ContactForm />
+              {/* Hidden fallback form for Netlify's build-time crawler */}
+              <form name="contact" data-netlify="true" netlify-honeypot="bot-field" hidden>
+                <input type="hidden" name="form-name" value="contact" />
+                <input name="bot-field" />
+                <input type="text" name="name" />
+                <input type="email" name="email" />
+                <input type="tel" name="phone" />
+                <select name="service">
+                  <option value="weekly">Haftalık ders</option>
+                  <option value="private">Özel ders</option>
+                  <option value="couple">Gelin-damat dersi</option>
+                  <option value="wedding">Düğün gösterisi</option>
+                  <option value="other">Diğer</option>
+                </select>
+                <textarea name="message"></textarea>
+              </form>
             </div>
           </div>
         </div>

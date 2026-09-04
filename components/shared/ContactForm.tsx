@@ -12,19 +12,24 @@ export function ContactForm() {
     setStatus('loading');
 
     const form = e.currentTarget;
-    const body = new URLSearchParams(
-      Object.fromEntries(new FormData(form) as unknown as Iterable<[string, string]>)
-    ).toString();
+    const formData = new FormData(form);
+    const body = new URLSearchParams(formData as any).toString();
 
     try {
-      const res = await fetch('/', {
+      const response = await fetch('/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body,
+        body: body,
       });
-      setStatus(res.ok ? 'success' : 'error');
-      if (res.ok) form.reset();
-    } catch {
+
+      if (response.ok) {
+        setStatus('success');
+        form.reset();
+      } else {
+        setStatus('error');
+      }
+    } catch (error) {
+      console.error('Form submission error:', error);
       setStatus('error');
     }
   };
