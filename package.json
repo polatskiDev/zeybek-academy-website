@@ -15,7 +15,8 @@
     "next": "^15.0.0",
     "next-intl": "^3.22.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "resend": "^6.26.0"
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^5.0.0",
